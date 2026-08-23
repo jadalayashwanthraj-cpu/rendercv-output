@@ -67,7 +67,7 @@ cv:
       - company: Flipcart
         position: Engineer
         location: Remote
-        start_date: 2020-08
+        start_date: 2020-04
         end_date: 2021-12
         highlights:
           - Developed web applications and backend services using Java, Python, JavaScript, React.js, and Spring MVC.
