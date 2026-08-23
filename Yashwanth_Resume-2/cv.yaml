@@ -52,7 +52,7 @@ cv:
       - company: JP Morgan Chase
         position: Software Engineer Consultant
         location: Remote
-        start_date: 2021-12
+        start_date: 2021-10
         end_date: 2023-08
         highlights:
           - Developed full-stack applications using Java, JavaScript, TypeScript, React.js, and Spring Boot in production environments.
