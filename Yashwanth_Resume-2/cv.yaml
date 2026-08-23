@@ -68,7 +68,7 @@ cv:
         position: Engineer
         location: Remote
         start_date: 2020-04
-        end_date: 2021-12
+        end_date: 2021-10
         highlights:
           - Developed web applications and backend services using Java, Python, JavaScript, React.js, and Spring MVC.
           - Built product features for consumer-facing systems with focus on scalability, usability, and reliable performance.
