@@ -1,0 +1,103 @@
+cv:
+  name: Yashwanth Raj
+  location: Dallas, TX
+  email: jadalayashwanthraj@gmail.com
+  phone: "+1-940-843-9866"
+  custom_connections:
+    - placeholder: LinkedIn
+      url: https://linkedin.com
+      fontawesome_icon: linkedin
+
+  sections:
+    Professional Summary:
+      - Software Engineer with 4+ years of experience building full-stack applications and scalable software systems using Java, Python, JavaScript, and TypeScript. Strong background in developing product features, debugging production issues, improving system health, and writing maintainable, testable code. Experienced in large-scale web applications, backend APIs, distributed systems, performance optimization, code reviews, and cross-functional collaboration.
+
+    Technical Skills:
+      - label: Programming Languages
+        details: Java, Python, JavaScript, TypeScript, SQL
+      - label: Frameworks & Libraries
+        details: Angular, React.js, Spring Boot, Spring MVC, Hibernate, Node.js, Express.js
+      - label: Web Technologies
+        details: HTML5, CSS3, Bootstrap, AJAX, JSON, XML
+      - label: Databases
+        details: PostgreSQL, MySQL, Oracle, MongoDB, Redis
+      - label: Cloud & Infrastructure
+        details: AWS, Microsoft Azure, Docker, Kubernetes, Terraform, CloudFormation
+      - label: Core Engineering Areas
+        details: Data Structures, Algorithms, REST APIs, Distributed Systems, Large-Scale Systems, System Design
+      - label: Testing & Quality
+        details: JUnit, Mockito, Selenium, Unit Testing, Integration Testing, Code Reviews
+      - label: Monitoring & Debugging
+        details: Splunk, Dynatrace, AppDynamics, ELK Stack, CloudWatch, Production Support
+      - label: Developer Tools
+        details: Git, GitHub, Jenkins, Maven, JIRA, Eclipse, Spring Tool Suite
+      - label: Methodologies
+        details: Agile/Scrum, SDLC, Documentation, Design Reviews, Accessibility-Aware Development
+
+    Professional Experience:
+      - company: Apple Inc
+        position: Software Engineer
+        location: Dallas, TX
+        start_date: 2025-05
+        end_date: present
+        highlights:
+          - Designed, developed, tested, deployed, and maintained software applications using Java, Python, TypeScript, and React.js for large-scale enterprise platforms.
+          - Wrote product and system development code for frontend and backend components with strong emphasis on readability, efficiency, and maintainability.
+          - Built scalable web applications and backend services supporting high-volume users and complex distributed workflows.
+          - Participated in design reviews with peers and stakeholders to evaluate technical options and guide architecture decisions.
+          - Reviewed code developed by other engineers and provided actionable feedback on style, accuracy, testability, and performance.
+          - Improved system health by monitoring production services, triaging issues, and resolving defects through root cause analysis.
+          - Debugged application, network, and service-level problems using logs, tracing, and observability tools including Splunk and Dynatrace.
+
+      - company: JP Morgan Chase
+        position: Software Engineer Consultant
+        location: Remote
+        start_date: 2021-12
+        end_date: 2023-08
+        highlights:
+          - Developed full-stack applications using Java, JavaScript, TypeScript, React.js, and Spring Boot in production environments.
+          - Built and enhanced scalable software systems with focus on backend APIs, frontend functionality, and distributed service communication.
+          - Applied strong data structures and algorithmic thinking to design efficient business logic and optimize application workflows.
+          - Participated in design discussions and technical reviews to select implementation approaches aligned with project requirements.
+          - Reviewed peer code to improve style consistency, code quality, testability, and software reliability across the team.
+          - Triaged production incidents and debugged system issues by analyzing logs, dependencies, service behavior, and database operations.
+          - Improved code and system health through monitoring, defect resolution, performance tuning, and proactive operational fixes.
+          - Designed and developed REST APIs and relational database integrations using PostgreSQL, Oracle, and MySQL.
+
+      - company: Flipcart
+        position: Engineer
+        location: Remote
+        start_date: 2019-08
+        end_date: 2021-12
+        highlights:
+          - Developed web applications and backend services using Java, Python, JavaScript, React.js, and Spring MVC.
+          - Built product features for consumer-facing systems with focus on scalability, usability, and reliable performance.
+          - Implemented frontend components using JavaScript, TypeScript, HTML5, and CSS3 to support responsive web experiences.
+          - Worked with relational databases and queries using MySQL and PostgreSQL to power transactional and reporting features.
+          - Participated in code reviews, testing, and debugging to improve software quality and ensure engineering best practices.
+          - Investigated and resolved production issues by analyzing logs, service behavior, and infrastructure dependencies.
+          - Supported large-scale application environments through monitoring, troubleshooting, and continuous system improvements.
+          - Collaborated with engineering and business teams to translate requirements into maintainable technical implementations.
+
+    Key Achievements:
+      - bullet: Built scalable full-stack software solutions using Java, Python, JavaScript, and TypeScript across frontend and backend systems.
+      - bullet: Contributed to large-scale systems by designing efficient APIs, optimizing performance, and improving software reliability.
+      - bullet: Strengthened code quality through peer code reviews, unit testing, integration testing, and maintainable engineering practices.
+      - bullet: Improved system health by triaging issues, debugging production defects, and resolving service and application bottlenecks.
+      - bullet: Participated in technical design reviews and architecture discussions to support sound engineering decisions.
+      - bullet: Developed and maintained documentation and knowledge-sharing resources for engineering teams and stakeholders.
+
+    Education:
+      - institution: University of Central Missouri
+        area: Computer Science
+        degree: MS
+        location: Missouri, US
+        start_date: 2023-08
+        end_date: 2025-05
+        highlights: []
+
+    Certifications:
+      - label: AWS Certified Solutions Architect – Associate
+        details: ""
+      - label: Scientific Computing with Python
+        details: ""

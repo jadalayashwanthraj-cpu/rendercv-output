@@ -1,0 +1,99 @@
+cv:
+  name: Yashwanth Raj
+  location: Dallas, TX
+  email: jadalayashwanthraj@gmail.com
+  phone: "+1-940-843-9866"
+  custom_connections:
+    - placeholder: LinkedIn
+      url: https://linkedin.com
+      fontawesome_icon: linkedin
+
+  sections:
+    Professional Summary:
+      - Software Engineer with 4+ years of experience building full-stack applications and scalable software systems using Java, Python, JavaScript, and TypeScript. Strong background in developing product features, debugging production issues, improving system health, and writing maintainable, testable code. Experienced in large-scale web applications, backend APIs, distributed systems, performance optimization, code reviews, and cross-functional collaboration.
+
+    Technical Skills:
+      - label: Programming Languages
+        details: Java, Python, TypeScript, JavaScript, SQL, Go
+      - label: Cloud & Infrastructure
+        details: GCP (Google Cloud Platform), Infrastructure as Code (IaC), Terraform, AWS, Docker, Kubernetes, Release Management
+      - label: Core Engineering Areas
+        details: Distributed Computing, Large-Scale System Design, REST APIs, Data Storage, Networking, System Architecture
+      - label: AI & Developer Automation
+        details: Agentic AI, AI Code Generation, Automated Issue Triage, Test Automation, Code Synthesis
+      - label: Frameworks & Libraries
+        details: Spring Boot, React.js, Node.js, Angular, Express.js, Hibernate
+      - label: Databases & Storage
+        details: PostgreSQL, MySQL, Oracle, MongoDB, Redis
+      - label: Testing & Code Quality
+        details: Unit Testing, Integration Testing, Code Reviews, Design Reviews, JUnit, Mockito
+      - label: Monitoring & Triage
+        details: Splunk, Dynatrace, CloudWatch, ELK Stack, Log Analysis, Root Cause Analysis
+      - label: Tools & Workflow
+        details: Git, GitHub, Jenkins, Maven, JIRA, CI/CD Pipelines, Technical Documentation
+
+    Professional Experience:
+      - company: Apple Inc
+        position: Software Engineer
+        location: Dallas, TX
+        start_date: 2025-05
+        end_date: present
+        highlights:
+          - Wrote product and system development code using Java, Python, and TypeScript for high-scale enterprise systems and cloud services.
+          - Participated in and led design reviews with peers and stakeholders to decide among technologies and establish scalable architectural decisions.
+          - Reviewed code developed by peers, delivering feedback on style guidelines, check-in practices, testability, accuracy, and performance efficiency.
+          - Applied Infrastructure as Code (IaC) and Terraform automation to improve cloud infrastructure deployment, testing, and release management.
+          - Leveraged AI-driven and automated tools for code authoring, automated issue triage, bug fixing, and continuous integration pipelines.
+          - Triaged product and system issues, debugging complex defects by analyzing hardware, network, and service operation impacts.
+          - Authored and updated technical documentation and educational resources, adapting content based on system updates and user feedback.
+
+      - company: JP Morgan Chase
+        position: Software Engineer Consultant
+        location: Remote
+        start_date: 2021-10
+        end_date: 2023-08
+        highlights:
+          - Developed scalable full-stack applications and RESTful backend APIs using Java, Spring Boot, TypeScript, and microservice architectures.
+          - Participated in design reviews and technical evaluation meetings to select optimal data storage, framework, and networking technologies.
+          - Conducted rigorous code reviews to enforce code quality, style consistency, unit testing standards, and repository check-in guidelines.
+          - Utilized Infrastructure as Code (IaC) with Terraform and Docker to automate environment provisioning and reduce release deployment cycles.
+          - Triaged production incidents and debugged backend failures by analyzing distributed logs, database operations, and network telemetry.
+          - Maintained comprehensive API documentation and developer guides, continuously refining material based on stakeholder feedback.
+
+      - company: FlipKart
+        position: Engineer
+        location: Remote
+        start_date: 2020-04
+        end_date: 2021-10
+        highlights:
+          - Developed web applications and backend services using Java, Python, JavaScript, React.js, and Spring MVC.
+          - Built product features for consumer-facing systems with focus on scalability, usability, and reliable performance.
+          - Implemented frontend components using JavaScript, TypeScript, HTML5, and CSS3 to support responsive web experiences.
+          - Worked with relational databases and queries using MySQL and PostgreSQL to power transactional and reporting features.
+          - Participated in code reviews, testing, and debugging to improve software quality and ensure engineering best practices.
+          - Investigated and resolved production issues by analyzing logs, service behavior, and infrastructure dependencies.
+          - Supported large-scale application environments through monitoring, troubleshooting, and continuous system improvements.
+          - Collaborated with engineering and business teams to translate requirements into maintainable technical implementations.
+
+    Key Achievements:
+      - bullet: Built scalable full-stack software solutions using Java, Python, JavaScript, and TypeScript across frontend and backend systems.
+      - bullet: Contributed to large-scale systems by designing efficient APIs, optimizing performance, and improving software reliability.
+      - bullet: Strengthened code quality through peer code reviews, unit testing, integration testing, and maintainable engineering practices.
+      - bullet: Improved system health by triaging issues, debugging production defects, and resolving service and application bottlenecks.
+      - bullet: Participated in technical design reviews and architecture discussions to support sound engineering decisions.
+      - bullet: Developed and maintained documentation and knowledge-sharing resources for engineering teams and stakeholders.
+
+    Education:
+      - institution: University of North Texas
+        area: Advanced Data Analytics
+        degree: MS
+        location: Dallas Texas, US
+        start_date: 2023-08
+        end_date: 2025-05
+        highlights: []
+
+    Certifications:
+      - label: AWS Certified Solutions Architect – Associate
+        details: ""
+      - label: Scientific Computing with Python
+        details: ""
