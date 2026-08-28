@@ -5,21 +5,21 @@ cv:
   phone: "+1 (940) 843-9866"
   sections:
     summary:
-      - Senior Python Developer with 6+ years of object-oriented software development experience, specializing in Valuation Control and Independent Price Verification (IPV) systems for Global Markets and financial institutions. Expert in building Python REST web services, designing UI-to-backend REST interfaces, building data-grid centric UIs in Angular (15+) and React, and developing data replication tools between NoSQL datastores and Oracle (Exadata) databases. Deep hands-on experience with SQL query tuning, grid computing on proprietary platforms, and full Agile SDLC practices (TDD, pair programming, CI/CD) while directly engaging with senior CFO Group and Global Markets business stakeholders.
+      - Senior Python Full Stack Developer with 5+ years of software engineering experience building scalable REST services, high-throughput data pipelines, and interactive UI applications for enterprise platforms and financial systems. Strong expertise in object-oriented Python design, SQL query optimization, NoSQL-to-relational data synchronization, and data-grid centric frontend interfaces in React and Angular. Full-lifecycle Agile practitioner experienced in test-driven development, continuous integration, distributed computing, and collaborating directly with technical and business stakeholders.
 
     technical_skills:
       - label: Languages & OO Design
-        details: Python (FastAPI, Django, Flask), C++, Java, Go, JavaScript/TypeScript, Object-Oriented Software Design & Architecture
-      - label: Web & UI Integration
-        details: Angular (15+), REST APIs, GraphQL, React.js, Redux, Next.js, data-grid centric UI development (AG-Grid), API/UI interface design
-      - label: Databases & Data Transfer
-        details: Oracle (Exadata), PostgreSQL, MySQL, Cassandra, MongoDB, Redis, Elasticsearch, Snowflake, BigQuery; SQL database design & query tuning; NoSQL to Oracle data replication tools
-      - label: Cloud, Grid & DevOps
-        details: Grid Computing, Proprietary Grid Platforms, High Data Volume Processing, AWS (EKS, Lambda, S3), Git, npm, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
-      - label: Testing & Quality
-        details: Test-Driven Development (TDD), Pytest, JUnit, Jest, Cypress, Playwright, Continuous Integration (CI/CD)
-      - label: Domain & Methodologies
-        details: Valuation Control, Independent Price Verification (IPV), Global Markets CFO Group Reporting, Agile/Scrum, Pair Programming, Daily Stand-ups, Stakeholder Management
+        details: Python (FastAPI, Django, Flask), JavaScript, TypeScript, Go, Java, Object-Oriented Software Architecture
+      - label: Web & UI Frameworks
+        details: Angular, React.js, Redux, Next.js, REST APIs, GraphQL, Data-Grid Components, Micro-frontends
+      - label: Databases & Data Engineering
+        details: PostgreSQL, Oracle, MySQL, Cassandra, MongoDB, Redis, BigQuery, Elasticsearch; SQL Query Tuning & Optimization; Data Replication Pipelines
+      - label: Cloud & Infrastructure
+        details: AWS (EKS, Lambda, S3), Docker, Kubernetes, Terraform, Distributed Computing, Jenkins, GitHub Actions, CI/CD
+      - label: Quality & Testing
+        details: Pytest, Jest, Cypress, JUnit, Test-Driven Development (TDD), Code Reviews, SonarQube
+      - label: Methodologies
+        details: Agile/Scrum, Pair Programming, Sprint Planning, Stakeholder Demos, Cross-functional Collaboration
 
     professional_experience:
       - company: Reddit (Reddit–Google AI Data Licensing Deal)
@@ -28,12 +28,11 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Developed object-oriented Python REST web services and high-volume data pipelines, designing clean interfaces between UI components and backend REST services.
-          - Built responsive, data-grid centric UIs using Angular (15+) and React.js/TypeScript, integrating real-time content and grid computing pipelines that reduced retrieval latency by 30%.
-          - Designed and built REST/GraphQL APIs and C++/Go microservices on top of high-volume grid computing pipelines using Python (FastAPI, Django, Flask).
-          - Executed full Agile software development lifecycle — including pair programming, test-driven development (TDD), daily stand-ups, and continuous integration.
-          - Optimized SQL schemas, complex queries, and data replication across PostgreSQL, Cassandra, Redis, MongoDB, and BigQuery for enterprise-scale data processing.
-          - Implemented OAuth2/JWT authentication and RBAC, maintaining 100% regulatory audit readiness and security compliance under GDPR and PCI-DSS v4.
+          - Developed and optimized high-performance Python REST and GraphQL APIs integrating real-time content licensing data into AI models and downstream analytics services.
+          - Engineered frontend components and data-grid views in React.js, Angular, and Next.js, linking user-facing search tools with backend AI search services and lowering query retrieval latency by 30%.
+          - Designed scalable microservices and data pipelines across PostgreSQL, Cassandra, Redis, and BigQuery, tuning complex database queries for high-volume structured data.
+          - Collaborated within an Agile engineering team applying pair programming, test-driven development (TDD), and continuous integration pipelines.
+          - Implemented OAuth2.0/JWT security protocols and role-based access controls (RBAC) to ensure strict data privacy and regulatory compliance.
 
       - company: Accenture
         position: Python Full Stack Developer
@@ -41,13 +40,12 @@ cv:
         start_date: 2021-11
         end_date: 2022-11
         highlights:
-          - Developed object-oriented Python software and microservices for Valuation Control and Independent Price Verification (IPV) workflows serving Global Markets and CFO Group stakeholders.
-          - Built custom data transfer tools to replicate high-volume market and pricing data from NoSQL datastores to an Oracle (Exadata) database, reducing processing latency by 28%.
-          - Engineered data-grid centric UIs in Angular (15+) and React with Plotly/D3, designing seamless interfaces between Angular UIs and Python REST web services for real-time risk monitoring.
-          - Leveraged grid computing and object-oriented database structures on proprietary platforms to process large-scale financial market datasets.
-          - Tuned SQL tables and queries in Oracle (Exadata) and PostgreSQL, accelerating complex query execution for regulatory and valuation risk reporting.
-          - Practiced test-driven development (TDD), continuous integration (CI/CD), pair programming, and daily stand-ups in a fast-paced Agile team environment.
-          - Presented technical demos and reporting dashboards directly to senior business stakeholders in finance and middle/back-office supervisory teams.
+          - Built object-oriented microservices using Python and FastAPI on AWS EKS for financial risk evaluation, early fraud detection, and supervisory compliance monitoring.
+          - Developed automated data-transfer tools synchronizing high-volume NoSQL datastores with relational database systems, reducing data sync latency by 28%.
+          - Engineered interactive analytics dashboards and data-grid interfaces in React.js and Angular, delivering real-time compliance metrics to risk officers and leadership.
+          - Designed and optimized SQL database tables and queries across enterprise relational stores (PostgreSQL, Oracle), improving query throughput for complex financial reporting.
+          - Embedded machine learning anomaly detection models into production REST services using PyTorch and MLflow, improving detection accuracy by 31%.
+          - Maintained automated CI/CD pipelines using Terraform and GitHub Actions while adhering to strict financial security frameworks (PCI-DSS, GDPR).
 
       - company: LBITS
         position: Python Full Stack Developer
@@ -55,10 +53,11 @@ cv:
         start_date: 2020-07
         end_date: 2021-10
         highlights:
-          - Developed scalable object-oriented backend microservices and REST APIs using Python (FastAPI, Flask, Django) and C++/Java-adjacent design patterns.
-          - Engineered front-end interfaces using Angular and React.js with TypeScript, designing robust UI-to-REST API interfaces with secure OAuth2/JWT authentication.
-          - Applied test-driven development (TDD) and continuous integration (CI/CD) pipelines via Docker and IBM Cloud, reducing deployment overhead by 18%.
-          - Participated fully in Agile software lifecycle, pair programming, and cross-functional team collaborations to deliver real-time data integration solutions.
+          - Developed object-oriented backend web services with Python (FastAPI, Django, Flask) for an enterprise conversational AI and customer analytics platform.
+          - Built responsive frontend applications in React.js and Angular, connecting UI state to backend REST APIs with secure authentication.
+          - Integrated CRM and ERP data stores using real-time API integrations, accelerating customer inquiry resolution times by 25%.
+          - Containerized microservices using Docker and Kubernetes, automating deployments on cloud infrastructure to cut operating overhead.
+          - Participated in daily Agile stand-ups, sprint planning, and test-driven development to ensure high software reliability.
 
     education:
       - institution: University of North Texas
