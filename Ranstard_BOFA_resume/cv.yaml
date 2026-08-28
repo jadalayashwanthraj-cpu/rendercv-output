@@ -31,6 +31,8 @@ cv:
           - Developed and optimized high-performance Python REST and GraphQL APIs integrating real-time content licensing data into AI models and downstream analytics services.
           - Engineered frontend components and data-grid views in React.js, Angular, and Next.js, linking user-facing search tools with backend AI search services and lowering query retrieval latency by 30%.
           - Designed scalable microservices and data pipelines across PostgreSQL, Cassandra, Redis, and BigQuery, tuning complex database queries for high-volume structured data.
+          - Leveraged distributed grid computing principles to process large-scale streaming content datasets, optimizing throughput for high-concurrency requests.
+          - Engaged in cross-functional design reviews with senior engineering leads and external technical partners to define API contracts and system architecture.
           - Collaborated within an Agile engineering team applying pair programming, test-driven development (TDD), and continuous integration pipelines.
           - Implemented OAuth2.0/JWT security protocols and role-based access controls (RBAC) to ensure strict data privacy and regulatory compliance.
 
@@ -44,6 +46,8 @@ cv:
           - Developed automated data-transfer tools synchronizing high-volume NoSQL datastores with relational database systems, reducing data sync latency by 28%.
           - Engineered interactive analytics dashboards and data-grid interfaces in React.js and Angular, delivering real-time compliance metrics to risk officers and leadership.
           - Designed and optimized SQL database tables and queries across enterprise relational stores (PostgreSQL, Oracle), improving query throughput for complex financial reporting.
+          - Utilized high-speed memory caching with Redis and optimized indexing to support low-latency valuation and risk audit tracking workflows.
+          - Presented technical sprint deliverables and live analytical demos directly to middle-office finance stakeholders and supervisory officers.
           - Embedded machine learning anomaly detection models into production REST services using PyTorch and MLflow, improving detection accuracy by 31%.
           - Maintained automated CI/CD pipelines using Terraform and GitHub Actions while adhering to strict financial security frameworks (PCI-DSS, GDPR).
 
@@ -56,8 +60,10 @@ cv:
           - Developed object-oriented backend web services with Python (FastAPI, Django, Flask) for an enterprise conversational AI and customer analytics platform.
           - Built responsive frontend applications in React.js and Angular, connecting UI state to backend REST APIs with secure authentication.
           - Integrated CRM and ERP data stores using real-time API integrations, accelerating customer inquiry resolution times by 25%.
+          - Built automated unit and integration test suites using Pytest and Jest, establishing continuous integration checks to enforce high code quality.
+          - Monitored production application health using Prometheus and Grafana dashboards, performing root-cause analysis to resolve service issues promptly.
           - Containerized microservices using Docker and Kubernetes, automating deployments on cloud infrastructure to cut operating overhead.
-          - Participated in daily Agile stand-ups, sprint planning, and test-driven development to ensure high software reliability.
+          - Participated in daily Agile stand-ups, sprint planning, and pair programming to maintain reliable release cycles.
 
     education:
       - institution: University of North Texas
