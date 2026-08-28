@@ -1,0 +1,70 @@
+cv:
+  name: Yashwanth Raj Jadala
+  location: Dallas, TX
+  email: yash000u534@gmail.com
+  phone: "+1 (940) 843-9866"
+  sections:
+    summary:
+      - Senior Python Developer with 5 years of object-oriented software development, building REST web services and the UI-to-backend interfaces that consume them for fraud detection, risk monitoring, and compliance systems at financial institutions. Deep hands-on experience with SQL database design and query tuning, data-transfer pipelines that synchronize NoSQL datastores with relational/warehouse systems, and data-grid centric UIs in React.js and Angular. Has worked the full Agile software development lifecycle — sprint planning, pair programming, test-driven development, and continuous integration — and is comfortable operating in high-volume, distributed, proprietary-platform environments while communicating directly with senior business stakeholders.
+
+    technical_skills:
+      - label: Languages & OO Design
+        details: Python (FastAPI, Django, Flask), Go, Java-adjacent OO patterns, JavaScript/TypeScript, object-oriented software design and architecture
+      - label: Web & UI Integration
+        details: REST APIs, GraphQL, React.js, Angular, Redux, Next.js, data-grid centric UI development, API/UI interface design
+      - label: Databases & Data Transfer
+        details: PostgreSQL, MySQL, Cassandra, MongoDB, Redis, Elasticsearch, Snowflake, BigQuery, AWS RDS; SQL query design/tuning; building data-transfer tools between NoSQL and relational/data-warehouse stores
+      - label: Cloud, Grid & DevOps
+        details: AWS (EKS, Lambda, API Gateway, S3), GCP (Vertex AI, GKE, Pub/Sub), Kubernetes, Docker, Terraform, distributed/high-volume processing, Jenkins, GitHub Actions, GitLab CI/CD
+      - label: Testing & Quality
+        details: Test-driven development, Pytest, JUnit, Jest, Cypress, Playwright, Testcontainers, SonarQube, continuous integration
+      - label: Security & Compliance
+        details: OAuth2.0, JWT, RBAC, data encryption, PCI-DSS v4, GDPR, ISO/IEC 27001, financial-services compliance monitoring
+      - label: Methodologies
+        details: Agile/Scrum, pair programming, daily stand-ups, sprint planning, stakeholder management, cross-functional collaboration
+
+    professional_experience:
+      - company: Reddit (Reddit–Google AI Data Licensing Deal)
+        position: Python Full Stack Developer
+        location: Remote (Dallas, TX)
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - Developed and optimized Python APIs and data pipelines integrating real-time content into Vertex AI, designing REST/GraphQL interfaces consumed by downstream services and generating $60M in recurring annual revenue.
+          - Designed the interface between UI and backend REST services for AI-powered search (Reddit Answers), linking Python services with Vertex AI Search and Gemini models to boost user engagement by 22%.
+          - Built scalable, object-oriented full-stack modules in Python, React, and GraphQL, ensuring GDPR/FTC compliance and reducing retrieval latency by 30% through query and data-pipeline optimization.
+          - Designed and built REST/GraphQL APIs and Go microservices on top of Vertex AI-powered, high-volume data pipelines using Python (FastAPI, Django, Flask).
+          - Built responsive, data-grid centric UI components in React.js/TypeScript and Next.js, participating fully in the Agile software development lifecycle from design through delivery.
+          - Worked across PostgreSQL, Cassandra, Redis, Elasticsearch, MongoDB, and BigQuery, tuning schemas and queries for structured and unstructured enterprise-scale data.
+          - Implemented OAuth2/JWT authentication, RBAC, and encryption standards, achieving 100% regulatory audit readiness under GDPR, FTC, and PCI-DSS v4.
+
+      - company: Accenture
+        position: Python Full Stack Developer
+        location: India
+        start_date: 2021-11
+        end_date: 2022-11
+        highlights:
+          - Developed cloud-native, object-oriented microservices (Python, FastAPI, Docker, Kubernetes) on AWS EKS for early fraud detection and asset-quality risk monitoring across 200+ financial institutions — a valuation/risk-control workflow closely aligned to Global Markets supervisory reporting.
+          - Designed and tuned SQL database tables and queries across PostgreSQL and MongoDB, and built data-transfer pipelines synchronizing NoSQL sources with relational/warehouse stores, reducing data processing latency by 28% for high-volume compliance reporting.
+          - Engineered secure React.js dashboards integrated with Python REST APIs and ML pipelines, designing the UI-to-service interface that delivered real-time compliance insights to regulatory officers and improved decision-making speed by 35%.
+          - Embedded predictive ML models (scikit-learn, XGBoost, PyTorch) into production APIs with MLflow monitoring, increasing anomaly-detection accuracy by 31% across supervisory workflows.
+          - Built interactive React.js + TypeScript dashboards with Plotly and D3.js, participating in the full Agile/Scrum lifecycle including sprint planning and stakeholder demos with banking/finance teams.
+          - Automated deployments on AWS (EKS, Lambda, S3) and Azure using Terraform, GitHub Actions, and Jenkins, with OpenTelemetry tracing and SLO/SLI monitoring for high reliability.
+          - Implemented OAuth2.0, JWT, RBAC, and data encryption, ensuring compliance with PCI-DSS v4, GDPR, ISO/IEC 27001, and RBI supervisory security frameworks.
+
+      - company: LBITS
+        position: Python Full Stack Developer
+        location: India
+        start_date: 2020-07
+        end_date: 2021-10
+        highlights:
+          - Developed and deployed a multilingual, object-oriented AI chatbot (English + 8 Indian languages) using Python and FastAPI, boosting Tier 2/3 city engagement by 35% during COVID-19.
+          - Designed and integrated a CRM-as-a-Service platform with real-time REST APIs, linking chatbot interactions to ERP and customer databases for 25% faster query resolution and full customer visibility.
+          - Built scalable backend microservices with Python (Flask, Django REST, FastAPI), deployed on Kubernetes/OpenShift via Docker and CI/CD pipelines on IBM Cloud, reducing infrastructure costs by 18%.
+          - Engineered front-end interfaces using React.js, TypeScript, Redux, and Progressive Web Apps, designing the interface between UI and REST services with secure OAuth2/JWT authentication and API Gateway integration.
+          - Applied NLP/AI frameworks (spaCy, Hugging Face, TensorFlow, PyTorch) alongside Prometheus, Grafana, and the ELK stack to monitor uptime and optimize real-time analytics pipelines under an Agile process.
+
+    education:
+      - institution: University of North Texas
+        area: Advanced Data Analytics
+        degree: Master's
