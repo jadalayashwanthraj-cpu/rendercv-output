@@ -5,7 +5,7 @@ cv:
   phone: "+1 (940) 843-9866"
   sections:
     summary:
-      - Senior Python Full Stack Developer with 5+ years of software engineering experience building scalable REST services, high-throughput data pipelines, and interactive UI applications for enterprise platforms and financial systems. Strong expertise in object-oriented Python design, SQL query optimization, NoSQL-to-relational data synchronization, and data-grid centric frontend interfaces in React and Angular. Full-lifecycle Agile practitioner experienced in test-driven development, continuous integration, distributed computing, and collaborating directly with technical and business stakeholders.
+      - Senior Python Software Engineer with 5+ years of experience designing scalable REST APIs, distributed microservices and high-volume data platforms, including financial risk and regulatory compliance systems. Strong expertise in Python, SQLAlchemy ORM, relational and NoSQL databases, containerized services, CI/CD and Agile development. Experienced translating complex business and regulatory requirements into scalable technical solutions and collaborating directly with financial stakeholders.
 
     technical_skills:
       - label: Languages & OO Design
