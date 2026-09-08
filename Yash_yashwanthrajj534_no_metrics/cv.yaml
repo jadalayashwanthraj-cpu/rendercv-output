@@ -1,0 +1,97 @@
+cv:
+  name: Yashwanth Jadala
+  location: San Ramon, CA
+  email: yashwanthrajj534@gmail.com
+  phone: "+1-940-536-3920"
+  custom_connections:
+    - placeholder: LinkedIn Profile
+      url: https://linkedin.com
+      fontawesome_icon: linkedin
+
+  sections:
+    Professional Summary:
+      - Machine Learning Engineer with professional experience designing, building, and deploying scalable AI/ML pipelines, real-time recommender systems, and low-latency microservices across enterprise domains. Specialized in end-to-end ML product lifecycles—from data engineering and foundational MLOps to high-throughput inference endpoints and LLM-powered personalization solutions. Proven track record at Apple of building high-concurrency ML infrastructure, executing A/B testing, and collaborating with Product Managers and Data Analysts to ship intelligent user-facing features using Python, Java, Docker, and Kubernetes.
+
+    Technical Skills:
+      - label: Programming and Scripting
+        details: Python, Java, JavaScript (ES6+), TypeScript, SQL, Bash, HTML5, CSS3, Node.js
+      - label: AI, ML and Generative AI (GenAI)
+        details: Large Language Models (LLMs), Agentic AI, Recommender Systems, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Prompt Engineering, Chain-of-Thought, Few-Shot Learning, Model Fine-Tuning, ReAct Pattern, LLM Orchestration
+      - label: ML Tooling and Vector Stores
+        details: OpenAI API, Embeddings, Vector Databases (Pinecone, Redis), Semantic Search, A/B Testing, scikit-learn, Pandas, NumPy, Model Evaluation, MLOps Fundamentals
+      - label: Frameworks and Libraries
+        details: FastAPI, Spring Boot, Spring MVC, Spring Batch, Hibernate, ReactJS, Express.js, WebSockets, TanStack Query, Recharts, D3.js
+      - label: Cloud, DevOps and Observability
+        details: AWS (EC2, S3, Lambda, Bedrock), Azure, Docker, Kubernetes, Terraform, Jenkins, Azure DevOps, GitHub Actions, ArgoCD, CI/CD Pipelines, Git, Prometheus, Grafana, OpenTelemetry, Distributed Tracing
+      - label: Databases and Data Management
+        details: PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch, Query Optimization, Indexing, Stored Procedures
+      - label: Architecture and Methodologies
+        details: Microservices, RESTful APIs, System Design, Event-Driven Architecture, Distributed Systems, Apache Kafka, Caching, Load Balancing, High Availability, Agile/Scrum/Kanban, Test-Driven Development (TDD), Code Reviews, OAuth 2.0, JWT, Role-Based Access Control (RBAC)
+
+    Professional Experience:
+      - company: Apple
+        position: Software Development Engineer (AI/ML Engineering)
+        location: Seattle, WA
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - Architected and deployed scalable ML infrastructure and LLM-powered personalization services in Python using LangChain, LangGraph, and FastAPI to power real-time discovery and workflow automation across services.
+          - Engineered low-latency, high-concurrency microservices hosting ML inference endpoints using FastAPI and WebSockets, enabling dynamic tool discovery and contextual API integrations.
+          - Designed prompt optimization and recommendation pipelines with A/B testing and experimentation capabilities using chain-of-thought reasoning and self-correction to elevate output quality and relevance.
+          - Built high-performance Retrieval-Augmented Generation (RAG) and semantic search pipelines leveraging OpenAI embeddings and vector databases (Pinecone, Redis) across enterprise knowledge bases.
+          - Scaled real-time multi-agent recommendation orchestration using LangGraph to manage stateful multi-turn dialogues, decision trees, and seamless human-in-the-loop handoffs for high-concurrency workloads.
+          - Containerized AI/ML microservices on Kubernetes with queue-depth horizontal pod autoscaling, maintaining low-latency ML inference and high service availability during traffic surges.
+          - Developed automated MLOps evaluation and monitoring pipelines featuring continuous fine-tuning and human feedback loops to monitor model performance, accuracy, and output drift in production.
+          - Partnered closely with Product Managers, Data Analysts, and research teams to rapid-prototype, A/B test, and launch core AI product features with end-to-end observability via OpenTelemetry and Prometheus.
+
+      - company: Accenture Pvt. Ltd.
+        position: Software Engineer (Java Full Stack)
+        location: India
+        start_date: 2021-11
+        end_date: 2022-11
+        highlights:
+          - Architected a high-throughput financial transaction monitoring platform using Java, Spring Boot, and React for real-time anomaly detection and high-uptime operations.
+          - Designed and deployed resilient, low-latency RESTful microservices integrated with core database systems, optimizing query execution and caching paths in PostgreSQL and MySQL.
+          - Developed interactive analytics and compliance dashboards using React, Recharts, and D3.js, surfacing transactional patterns and data heatmaps for product and risk analysts.
+          - Enforced enterprise security standards by implementing OAuth 2.0, JWT, and Role-Based Access Control (RBAC) to ensure strict PCI DSS compliance across microservices.
+          - Established automated data validation frameworks and quality assurance checks to eliminate downstream reporting discrepancies and maintain high data integrity across pipelines.
+          - Automated legacy spreadsheet reconciliation processes by engineering modern Java Spring Boot microservices integrated with real-time reporting dashboards.
+          - Implemented complex event processing and real-time streaming data pipelines using Spring Cloud Stream and Apache Kafka for low-latency anomaly identification.
+          - Automated end-to-end CI/CD pipelines using Jenkins and Docker within an Agile framework to accelerate deployment cycles and maintain production stability.
+
+      - company: Lbits Technologies
+        position: Full Stack Developer (Java)
+        location: Hyderabad, India
+        start_date: 2020-07
+        end_date: 2021-10
+        highlights:
+          - Built an enterprise-grade inventory management solution utilizing Java, Spring MVC, Hibernate, React, and MySQL, coordinating multi-warehouse and storefront inventory state.
+          - Designed RESTful services with Spring Boot to synchronize real-time stock levels between transactional databases and e-commerce storefronts, preventing inventory overselling.
+          - Engineered interactive React dashboards to track sales velocity and supplier lead times, providing actionable insights for procurement optimization.
+          - Created an automated stock reconciliation engine using Java Spring Batch to cross-examine POS transaction logs against warehouse records and identify stock discrepancies.
+          - Integrated Redis caching layers to alleviate database load and enhance REST API response times during peak traffic periods.
+          - Secured sensitive inventory operations by implementing JWT authentication and fine-grained role-based access control across user roles.
+          - Collaborated with UI/UX designers to deliver highly responsive user interfaces with React Hooks and Context API, improving operational efficiency for warehouse personnel.
+          - Participated in Agile sprint cycles, contributing to technical planning, code reviews, and consistent feature delivery.
+
+    Education:
+      - institution: University of North Texas
+        area: Computer Science
+        degree: Master of Science
+        location: Denton, TX
+
+      - institution: Srinidhi Institute of Science and Technology
+        area: Computer Science
+        degree: Bachelor of Engineering
+
+    Certifications:
+      - bullet: AWS Certified Cloud Practitioner - Amazon Web Services
+      - bullet: LangChain for LLM Application Development - DeepLearning.ai
+      - bullet: Oracle Certified Professional, Java SE 8 Programmer - Oracle
+      - bullet: Full Stack Web Development Specialization - Coursera (Johns Hopkins University)
+      - bullet: Agile Scrum Foundation - EXIN
+      - bullet: Certified Anti-Money Laundering Specialist (CAMS) - In Progress
+
+    Awards:
+      - bullet: Excellence in Automation Award - Accenture (Recognized for engineering a Java Spring Batch automation framework for financial reconciliation)
+      - bullet: Spot Award for Client Satisfaction - Lbits Technologies
