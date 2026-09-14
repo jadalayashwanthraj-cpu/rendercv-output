@@ -55,7 +55,7 @@ cv:
           - Automated end-to-end CI/CD pipelines using GitHub Actions, Jenkins, and Docker to deploy containerized microservices onto OpenShift environments.
 
       - company: Lbits Technologies
-        position: Full Stack Developer (Java)
+        position: Full Stack Developer
         start_date: 2020-07
         end_date: 2021-10
         highlights:
