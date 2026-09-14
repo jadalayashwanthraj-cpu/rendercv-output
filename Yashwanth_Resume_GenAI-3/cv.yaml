@@ -10,21 +10,19 @@ cv:
 
   sections:
     Professional Summary:
-      - Software Development Engineer with professional experience engineering enterprise-grade GenAI, RAG, and Agentic AI solutions alongside microservice architectures across financial technology and large enterprise domains. Specialized in building conversational AI applications, document ingestion pipelines, semantic search, and multi-agent workflows using Python, LangChain, LangGraph, Azure OpenAI, and OpenAI. Proficient in integrating AI agents with enterprise APIs, databases, and microservices, and deploying containerized applications on OpenShift and Kubernetes with automated CI/CD pipelines.
+      - Software Development Engineer with 4+ years of experience engineering enterprise AI agents, LLM workflow automation, and internal developer tools alongside microservice architectures. Specialized in building agentic AI solutions, internal SA productivity tools, document ingestion pipelines, and multi-agent workflows using Python, TypeScript/Node.js, LangChain, LangGraph, FastAPI, and AWS. Proven track record of translating complex, ambiguous business workflows into production-grade automation, custom customer PoCs, and scalable internal platforms that eliminate operational friction.
 
     Technical Skills:
-      - label: Generative AI & Agentic Systems
-        details: Large Language Models (LLMs), Agentic AI, Multi-Agent Workflows, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Prompt Engineering, Fine-Tuning, ReAct Pattern, Azure OpenAI, OpenAI API
-      - label: Embeddings & Vector Search
-        details: Document Ingestion Pipelines, Embeddings, Semantic Search, Vector Search, Vector Databases (Redis, Pinecone), Knowledge Bases, scikit-learn, Pandas, NumPy, Model Evaluation
+      - label: AI Engineering & Agentic Systems
+        details: Large Language Models (LLMs), Agentic AI, Multi-Agent Workflows, LangChain, LangGraph, AI Workflow Automation, Model Context Protocol (MCP), Prompt Engineering, ReAct Pattern, RAG, Azure OpenAI, OpenAI API
       - label: Programming & Backend Engineering
-        details: Python, Java, JavaScript (ES6+), TypeScript, SQL, Bash, FastAPI, Spring Boot, Spring MVC, Node.js, Express.js, RESTful APIs, Microservices, WebSockets
-      - label: Cloud, Containers & DevOps
-        details: AWS (S3, EC2, Lambda, Bedrock), Azure, OpenShift, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, Azure DevOps, ArgoCD, CI/CD, Git, GitHub, OpenTelemetry, Prometheus, Grafana
-      - label: Databases & Enterprise Data
-        details: Oracle, PostgreSQL, MySQL, SQL Server, Redis, Starburst, MongoDB, Elasticsearch, Stored Procedures, Query Optimization
-      - label: Architecture & Governance
-        details: Event-Driven Architecture, Apache Kafka, Distributed Systems, AI Governance & Security, OAuth 2.0, JWT, Role-Based Access Control (RBAC), Agile/Scrum
+        details: Python, TypeScript, Node.js, Next.js, Java, SQL, FastAPI, Express.js, RESTful APIs, Spring Boot, Microservices, WebSockets, Distributed Systems
+      - label: Vector Search & Data Pipelines
+        details: Document Ingestion Pipelines, Embeddings, Vector Search, Redis, Pinecone, Starburst, PostgreSQL, scikit-learn, Pandas, Query Optimization
+      - label: Cloud, DevOps & Infrastructure
+        details: AWS (Bedrock, S3, EC2, Lambda), GCP, OpenShift, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
+      - label: Internal Tools & Enterprise Integration
+        details: Solutions Architecture Tools, Custom PoC/Demo Environments, API Integration, Event-Driven Architecture, Apache Kafka, OAuth 2.0, JWT, RBAC, Agile/Scrum
 
     Professional Experience:
       - company: Apple
@@ -33,14 +31,14 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Architected enterprise-grade GenAI platforms using Python, LangChain, and LangGraph to automate complex cross-service business workflows and intelligent operations.
-          - Engineered multi-agent workflows and conversational AI applications with Model Context Protocol (MCP) and FastAPI, integrating AI agents with enterprise APIs and backend databases.
-          - Built scalable document ingestion, embedding generation, and semantic search pipelines leveraging OpenAI and Azure OpenAI models connected to Redis vector databases.
-          - Designed Advanced Retrieval-Augmented Generation (RAG) architectures with prompt engineering frameworks (chain-of-thought, few-shot) to improve response accuracy and security.
-          - Orchestrated multi-agent decision trees in LangGraph with stateful dialogue tracking and seamless human-in-the-loop escalation paths for enterprise workloads.
-          - Deployed containerized GenAI microservices on OpenShift and Kubernetes with horizontal pod autoscaling, sustaining high throughput and sub-second inference latencies.
-          - Implemented an automated LLM evaluation and governance pipeline using OpenTelemetry and Prometheus to monitor model drift, hallucination rates, and performance metrics.
-          - Collaborated with research and engineering teams to launch AI Smart Assistants and automated routing systems with end-to-end distributed tracing.
+          - Architected internal AI agent platforms using Python, TypeScript, LangChain, and LangGraph to automate complex technical workflows, technical discovery, and field operations.
+          - Engineered multi-agent workflows and developer tools with Model Context Protocol (MCP) and FastAPI, hardening ad-hoc scripts into production-grade solutions adopted across teams.
+          - Built custom demo environments, PoC applications, and AI-powered assets for strategic partner and customer engagements, accelerating technical solution design and onboarding.
+          - Implemented advanced RAG pipelines and document ingestion workflows with Redis vector databases and prompt engineering (chain-of-thought, few-shot) to streamline knowledge access.
+          - Orchestrated stateful multi-agent decision trees in LangGraph with human-in-the-loop escalation paths, automating routing and technical inquiry management.
+          - Deployed containerized microservices and AI agent APIs on OpenShift, Kubernetes, and AWS (EC2, S3, Lambda) with horizontal scaling for low-latency production execution.
+          - Established automated LLM evaluation and observability pipelines using OpenTelemetry and Prometheus to monitor hallucination rates, model drift, and operational performance.
+          - Partnered cross-functionally with solutions architects, product managers, and engineering leads to identify recurring workflow friction and ship high-impact internal automation daily.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer (Java Full Stack)
@@ -48,13 +46,13 @@ cv:
         start_date: 2021-11
         end_date: 2022-11
         highlights:
-          - Developed high-throughput RESTful microservices in Java and Spring Boot for a core banking financial transaction monitoring and fraud detection system.
-          - Integrated microservices with enterprise Oracle databases and AWS S3 storage paths, optimizing data retrieval through advanced indexing and Redis caching.
-          - Engineered automated data ingestion and financial reconciliation pipelines using Spring Batch to process large-scale transactional datasets with high data integrity.
-          - Designed interactive compliance and analytics dashboards in React and D3.js, surfacing real-time transaction anomaly patterns for financial regulatory reporting.
-          - Implemented complex event processing and real-time fraud detection pipelines using Spring Cloud Stream and Apache Kafka for low-latency anomaly identification.
-          - Secured banking APIs using OAuth 2.0, JWT, and Role-Based Access Control (RBAC) to comply with PCI DSS and SOX security and governance requirements.
-          - Automated end-to-end CI/CD pipelines using GitHub Actions, Jenkins, and Docker to deploy containerized microservices onto OpenShift environments.
+          - Developed high-throughput RESTful microservices in Java, Spring Boot, and Node.js for financial transaction monitoring, data reconciliation, and anomaly detection.
+          - Integrated microservices with enterprise Oracle databases and AWS S3 storage paths, optimizing data retrieval through advanced query tuning and Redis caching.
+          - Engineered automated data ingestion and financial reconciliation pipelines using Spring Batch to process large-scale transactional datasets with high integrity.
+          - Designed analytics and reporting dashboards in React and D3.js, surfacing real-time transaction anomaly patterns for regulatory compliance and operational teams.
+          - Built complex event processing and real-time fraud detection pipelines using Spring Cloud Stream and Apache Kafka for low-latency event processing.
+          - Secured enterprise APIs using OAuth 2.0, JWT, and Role-Based Access Control (RBAC) in compliance with PCI DSS and SOX security standards.
+          - Automated CI/CD pipelines using GitHub Actions, Jenkins, and Docker to streamline deployment across cloud and containerized environments.
 
       - company: Lbits Technologies
         position: Full Stack Developer (Java)
@@ -62,14 +60,13 @@ cv:
         start_date: 2020-07
         end_date: 2021-10
         highlights:
-          - Built an enterprise-grade inventory management solution utilizing Java, Spring MVC, Hibernate, React, and MySQL, coordinating multi-warehouse and storefront inventory state.
-          - Designed RESTful services with Spring Boot to synchronize real-time stock levels between transactional databases and e-commerce storefronts, preventing inventory overselling.
-          - Engineered interactive React dashboards to track sales velocity and supplier lead times, providing actionable insights for procurement optimization.
-          - Created an automated stock reconciliation engine using Java Spring Batch to cross-examine POS transaction logs against warehouse records and identify stock discrepancies.
-          - Integrated Redis caching layers to alleviate database load and enhance REST API response times during peak traffic periods.
-          - Secured sensitive inventory operations by implementing JWT authentication and fine-grained role-based access control across user roles.
-          - Collaborated with UI/UX designers to deliver highly responsive user interfaces with React Hooks and Context API, improving operational efficiency for warehouse personnel.
-          - Participated in Agile sprint cycles, contributing to technical planning, code reviews, and consistent feature delivery.
+          - Built enterprise inventory management solutions utilizing Java, Spring MVC, Hibernate, React, and MySQL, coordinating multi-warehouse inventory state.
+          - Designed RESTful APIs with Spring Boot to synchronize stock levels between transactional databases and storefronts, resolving operational data latency.
+          - Engineered React dashboards to track sales velocity and supplier lead times, providing actionable operational insights.
+          - Developed automated stock reconciliation engines using Java Spring Batch to cross-examine POS transaction logs against warehouse records.
+          - Integrated Redis caching layers to reduce database load and improve API response times during high-volume periods.
+          - Implemented JWT authentication and fine-grained role-based access control across internal user roles.
+          - Collaborated in Agile sprint cycles to deliver features, write technical documentation, and maintain clean code standards across shared codebases.
 
     Education:
       - institution: University of North Texas
