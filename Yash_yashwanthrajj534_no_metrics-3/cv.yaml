@@ -16,33 +16,33 @@ cv:
       - label: Programming and Scripting
         details: Python, Java, JavaScript (ES6+), TypeScript, SQL, Bash, HTML5, CSS3, Node.js
       - label: AI, ML and Generative AI (GenAI)
-        details: Large Language Models (LLMs), Agentic AI, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Prompt Engineering, Chain-of-Thought, Few-Shot Learning, Model Fine-Tuning, ReAct Pattern, LLM Orchestration
-      - label: ML Tooling and Vector Stores
-        details: OpenAI API, Embeddings, Vector Databases (Pinecone, Redis), Semantic Search, A/B Testing, scikit-learn, Pandas, NumPy, Model Evaluation, MLOps Fundamentals
+        details: Azure OpenAI, Large Language Models (LLMs), Agentic AI, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Prompt Engineering, Chain-of-Thought, ReAct Pattern, Multi-Agent Orchestration, Document Understanding, Responsible AI Frameworks
+      - label: ML Tooling, Search and Vector Stores
+        details: Azure AI Search, OpenAI API, Embeddings, Vector Databases (Pinecone, Redis), Semantic Search, scikit-learn, Pandas, NumPy, Model Evaluation, MLOps Fundamentals, A/B Testing
       - label: Frameworks and Libraries
         details: FastAPI, Spring Boot, Spring MVC, Spring Batch, Hibernate, ReactJS, Express.js, WebSockets, TanStack Query, Recharts, D3.js
       - label: Cloud, DevOps and Observability
-        details: AWS (EC2, S3, Lambda, Bedrock), Azure, Docker, Kubernetes, Terraform, Jenkins, Azure DevOps, GitHub Actions, ArgoCD, CI/CD Pipelines, Git, Prometheus, Grafana, OpenTelemetry, Distributed Tracing
+        details: Azure (Azure AI, Azure DevOps), AWS (EC2, S3, Lambda, Bedrock), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, ArgoCD, CI/CD Pipelines, Git, Prometheus, Grafana, OpenTelemetry, Distributed Tracing
       - label: Databases and Data Management
         details: PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch, Query Optimization, Indexing, Stored Procedures
-      - label: Architecture and Methodologies
-        details: Microservices, RESTful APIs, System Design, Event-Driven Architecture, Distributed Systems, Apache Kafka, Caching, Load Balancing, High Availability, Agile/Scrum/Kanban, Test-Driven Development (TDD), Code Reviews, OAuth 2.0, JWT, Role-Based Access Control (RBAC)
+      - label: Architecture and Compliance
+        details: Microservices, RESTful APIs, System Design, Event-Driven Architecture, Distributed Systems, EHR/CRM API Integrations, Apache Kafka, OAuth 2.0, JWT, Role-Based Access Control (RBAC), HIPAA Compliance Standards, Agile/Scrum/TDD
 
     Professional Experience:
       - company: Apple
         position: Software Development Engineer (AI/ML Engineering)
-        location: United states
+        location: United States
         start_date: 2024-09
         end_date: present
         highlights:
-          - Architected and scaled an enterprise AI platform using Python, LangChain, and LangGraph to automate complex cross-service business workflows and eliminate manual operational overhead.
-          - Engineered intelligent conversational agents with dynamic tool configuration in FastAPI and WebSockets, contextually discovering and executing internal API integrations.
-          - Designed advanced prompt engineering frameworks utilizing chain-of-thought reasoning, few-shot learning, and automated self-correction with centralized versioning and A/B testing to elevate model response quality and mitigate hallucinations.
-          - Built high-performance Retrieval-Augmented Generation (RAG) and semantic search pipelines leveraging OpenAI embeddings and vector databases across enterprise knowledge bases.
-          - Scaled multi-agent orchestration layers using LangGraph to manage stateful multi-turn dialogues, decision trees, and seamless human-in-the-loop handoffs for high-concurrency production workloads.
+          - Architected an enterprise AI platform using Python, Azure OpenAI, LangChain, and LangGraph to automate complex document understanding and cross-service business workflows.
+          - Engineered intelligent conversational agents with dynamic tool selection using FastAPI and WebSockets, contextually discovering and executing enterprise EHR, CRM, and portal API integrations.
+          - Designed structured prompt engineering frameworks utilizing chain-of-thought reasoning, automated validation, and central versioning to align model responses with Responsible AI guidelines and safety benchmarks.
+          - Built high-performance Retrieval-Augmented Generation (RAG) and semantic search pipelines leveraging Azure AI Search, OpenAI embeddings, and vector databases across large unstructured document repositories.
+          - Scaled multi-agent orchestration layers using LangGraph to manage stateful multi-turn dialogues, decision trees, and seamless human-in-the-loop handoffs for production workloads.
           - Containerized AI microservices on Kubernetes with queue-depth horizontal autoscaling, maintaining low-latency inference and high availability during traffic surges.
-          - Developed an automated LLM evaluation pipeline featuring continuous fine-tuning and human-in-the-loop feedback loops to monitor and eliminate model output drift.
-          - Partnered with research and product teams to deliver core GenAI features including Smart Assistant, Automated Reporting, and Intelligent Routing with distributed tracing via OpenTelemetry and Prometheus.
+          - Implemented continuous LLM evaluation pipelines with human-in-the-loop feedback and telemetry to monitor output quality, detect drift, and enforce data privacy standards.
+          - Partnered with product and engineering teams to deploy production AI capabilities, utilizing OpenTelemetry and Prometheus for end-to-end distributed tracing across microservices.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer (Java Full Stack)
