@@ -10,7 +10,7 @@ cv:
 
   sections:
     Professional Summary:
-      - Software Development Engineer with professional experience engineering enterprise-grade GenAI, RAG, and Agentic AI solutions alongside microservice architectures across financial technology and large enterprise domains. Specialized in building conversational AI applications, document ingestion pipelines, semantic search, and multi-agent workflows using Python, LangChain, LangGraph, Azure OpenAI, and OpenAI. Proficient in integrating AI agents with enterprise APIs, databases, and microservices, and deploying containerized applications on OpenShift and Kubernetes with automated CI/CD pipelines.
+      - AI/ML Engineer and Software Development Engineer with 4+ years of experience building production-grade AI, GenAI, and enterprise software systems. Experienced in developing Retrieval-Augmented Generation (RAG) applications, LLM integrations, multi-agent workflows, document ingestion and semantic search using Python, LangChain, LangGraph, FastAPI, Azure OpenAI, and OpenAI APIs. Strong software engineering background in REST APIs, microservices, cloud-native deployment, Kubernetes, CI/CD, observability, and enterprise data integrations.
 
     Technical Skills:
       - label: Generative AI & Agentic Systems
