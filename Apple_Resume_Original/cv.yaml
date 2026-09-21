@@ -13,18 +13,20 @@ cv:
       - AI/ML Engineer and Software Development Engineer with 4+ years of experience building production-grade AI, GenAI, and enterprise software systems. Experienced in developing Retrieval-Augmented Generation (RAG) applications, LLM integrations, multi-agent workflows, document ingestion and semantic search using Python, LangChain, LangGraph, FastAPI, Azure OpenAI, and OpenAI APIs. Strong software engineering background in REST APIs, microservices, cloud-native deployment, Kubernetes, CI/CD, observability, and enterprise data integrations.
 
     Technical Skills:
-      - label: Generative AI & Agentic Systems
-        details: Large Language Models (LLMs), Agentic AI, Multi-Agent Workflows, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Prompt Engineering, Fine-Tuning, ReAct Pattern, Azure OpenAI, OpenAI API
-      - label: Embeddings & Vector Search
-        details: Document Ingestion Pipelines, Embeddings, Semantic Search, Vector Search, Vector Databases (Redis, Pinecone), Knowledge Bases, scikit-learn, Pandas, NumPy, Model Evaluation
-      - label: Programming & Backend Engineering
-        details: Python, Java, JavaScript (ES6+), TypeScript, SQL, Bash, FastAPI, Spring Boot, Spring MVC, Node.js, Express.js, RESTful APIs, Microservices, WebSockets
-      - label: Cloud, Containers & DevOps
-        details: AWS (S3, EC2, Lambda, Bedrock), Azure, OpenShift, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, Azure DevOps, ArgoCD, CI/CD, Git, GitHub, OpenTelemetry, Prometheus, Grafana
-      - label: Databases & Enterprise Data
-        details: Oracle, PostgreSQL, MySQL, SQL Server, Redis, Starburst, MongoDB, Elasticsearch, Stored Procedures, Query Optimization
-      - label: Architecture & Governance
-        details: Event-Driven Architecture, Apache Kafka, Distributed Systems, AI Governance & Security, OAuth 2.0, JWT, Role-Based Access Control (RBAC), Agile/Scrum
+      - label: Generative AI & Agentic AI
+        details: LLMs, Generative AI, Agentic AI, Multi-Agent Systems, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Model Context Protocol (MCP), Prompt Engineering, OpenAI API, Azure OpenAI, Tool Calling, Function Calling
+      - label: AI/ML & Retrieval
+        details: Embeddings, Semantic Search, Vector Search, Vector Databases, Document Ingestion, Model Evaluation, NLP, scikit-learn, Pandas, NumPy
+      - label: Programming & Backend
+        details: Python, FastAPI, Java, Spring Boot, TypeScript, JavaScript, SQL, REST APIs, Microservices, Node.js, WebSockets
+      - label: Cloud & DevOps
+        details: AWS, Azure, OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, Azure DevOps, CI/CD, Git, Terraform
+      - label: MLOps & Observability
+        details: LLM Evaluation, AI Monitoring, OpenTelemetry, Prometheus, Grafana, Distributed Tracing, Model Performance Monitoring
+      - label: Databases & Data
+        details: PostgreSQL, Oracle, MySQL, SQL Server, Redis, MongoDB, Elasticsearch, Apache Kafka, Query Optimization
+      - label: Architecture & Security
+        details: Distributed Systems, Event-Driven Architecture, OAuth 2.0, JWT, RBAC, AI Governance, Agile/Scrum
 
     Professional Experience:
       - company: Apple
