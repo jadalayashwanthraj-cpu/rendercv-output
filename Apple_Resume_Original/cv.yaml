@@ -34,14 +34,14 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Architected enterprise-grade GenAI platforms using Python, LangChain, and LangGraph to automate complex cross-service business workflows and intelligent operations.
-          - Engineered multi-agent workflows and conversational AI applications with Model Context Protocol (MCP) and FastAPI, integrating AI agents with enterprise APIs and backend databases.
-          - Built scalable document ingestion, embedding generation, and semantic search pipelines leveraging OpenAI and Azure OpenAI models connected to Redis vector databases.
-          - Designed Advanced Retrieval-Augmented Generation (RAG) architectures with prompt engineering frameworks (chain-of-thought, few-shot) to improve response accuracy and security.
-          - Orchestrated multi-agent decision trees in LangGraph with stateful dialogue tracking and seamless human-in-the-loop escalation paths for enterprise workloads.
-          - Deployed containerized GenAI microservices on OpenShift and Kubernetes with horizontal pod autoscaling, sustaining high throughput and sub-second inference latencies.
-          - Implemented an automated LLM evaluation and governance pipeline using OpenTelemetry and Prometheus to monitor model drift, hallucination rates, and performance metrics.
-          - Collaborated with research and engineering teams to launch AI Smart Assistants and automated routing systems with end-to-end distributed tracing.
+          - Architected production-grade GenAI applications using Python, LangChain, and LangGraph to automate complex enterprise workflows and intelligent operations.
+          - Built multi-agent AI workflows using LangGraph and MCP, integrating LLM-powered agents with enterprise APIs, backend services, and databases through FastAPI.
+          - Developed document ingestion, embedding generation, semantic search, and RAG pipelines using OpenAI/Azure OpenAI models and vector databases.
+          - Designed RAG workflows with prompt engineering, few-shot prompting, structured outputs, and retrieval optimization to improve response quality and reliability.
+          - Implemented stateful multi-agent workflows with tool integration and human-in-the-loop escalation for enterprise AI use cases.
+          - Deployed containerized GenAI microservices on OpenShift and Kubernetes using Docker, supporting scalable production workloads and automated CI/CD.
+          - Built LLM evaluation and observability workflows using OpenTelemetry and Prometheus to monitor response quality, hallucination rates, latency, and model performance.
+          - Implemented distributed tracing and production monitoring for AI services, collaborating with engineering teams to improve reliability and operational visibility.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
