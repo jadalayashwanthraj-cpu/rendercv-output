@@ -1,0 +1,91 @@
+cv:
+  name: Yashwanth Jadala
+  location: San Ramon, CA
+  email: yashwanthrajj534@gmail.com
+  phone: "+1-940-536-3920"
+  custom_connections:
+    - placeholder: LinkedIn Profile
+      url: https://linkedin.com
+      fontawesome_icon: linkedin
+
+  sections:
+    Professional Summary:
+      - AI/ML Engineer and Software Development Engineer with 4+ years of experience building production-grade AI, GenAI, and enterprise software systems. Experienced in developing Retrieval-Augmented Generation (RAG) applications, LLM integrations, multi-agent workflows, document ingestion and semantic search using Python, LangChain, LangGraph, FastAPI, Azure OpenAI, and OpenAI APIs. Strong software engineering background in REST APIs, microservices, cloud-native deployment, Kubernetes, CI/CD, observability, and enterprise data integrations.
+
+    Technical Skills:
+      - label: Generative AI & LLM Orchestration
+        details: Large Language Models (LLMs), Multi-Agent Frameworks, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Model Context Protocol (MCP), Deep Learning Frameworks, Prompt Engineering, OpenAI API, Azure OpenAI
+      - label: Vector Databases & Retrieval
+        details: Vector Databases (Pinecone, Redis, Milvus), Embeddings, Semantic Search, Document Ingestion Pipelines, Model Evaluation, NLP, scikit-learn, Pandas, NumPy
+      - label: Programming & Core Engineering
+        details: Python, Java, Go, FastAPI, Spring Boot, TypeScript, JavaScript, SQL, REST APIs, Microservices, Automation & Developer Tooling
+      - label: Cloud & Platform Engineering
+        details: AWS, Azure, Docker, Kubernetes, OpenShift, GitHub Actions, Jenkins, Azure DevOps, Build & Release Engineering, CI/CD, Terraform
+      - label: Reliability, MLOps & Observability
+        details: LLM Evaluation, OpenTelemetry, Prometheus, Grafana, Distributed Tracing, Performance & Cost Optimization, Model Monitoring, Operational Excellence
+      - label: Enterprise Data & Databases
+        details: PostgreSQL, Oracle, MySQL, Redis, MongoDB, Elasticsearch, Apache Kafka, Query Optimization
+      - label: Security, Compliance & Architecture
+        details: Security by Design, AI Governance, Hardened Configurations, OAuth 2.0, JWT, RBAC, Distributed Systems, Event-Driven Architecture, Agile/Scrum
+
+    Professional Experience:
+      - company: Apple
+        position: Software Development Engineer (AI/ML Engineering)
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - Designed and delivered production-grade end-to-end GenAI applications and multi-agent workflows using Python, LangChain, and LangGraph to automate complex enterprise operations.
+          - Integrated LLMs and multi-agent frameworks using Model Context Protocol (MCP) and FastAPI, connecting intelligent agents securely to enterprise APIs, backend microservices, and databases.
+          - Engineered scalable document ingestion, embedding generation, semantic search, and RAG pipelines leveraging vector databases and Azure OpenAI / OpenAI APIs.
+          - Optimized RAG architectures with advanced prompt engineering, few-shot prompting, structured outputs, and retrieval ranking for enhanced response quality, reliability, and cost-effectiveness.
+          - Implemented stateful multi-agent decision workflows with tool integration and human-in-the-loop escalation paths to ensure operational stability for high-stakes business logic.
+          - Deployed secure, containerized AI services on OpenShift and Kubernetes with automated CI/CD pipelines, upholding security by design and hardened infrastructure configurations.
+          - Built LLM evaluation and observability solutions using OpenTelemetry and Prometheus to monitor hallucination rates, response quality, latency, and model performance metrics.
+          - Influenced technical standards and developer best practices by establishing distributed tracing, automated build and release processes, and cross-team AI integration patterns.
+
+      - company: Accenture Pvt. Ltd.
+        position: Software Engineer
+        start_date: 2021-11
+        end_date: 2022-11
+        highlights:
+          - Engineered high-throughput, secure RESTful microservices in Java and Spring Boot for financial transaction monitoring and fraud detection systems, ensuring 99.99% operational uptime.
+          - Built automated build and release CI/CD pipelines with GitHub Actions, Jenkins, and Docker, streamling developer workflows and cloud deployment across enterprise environments.
+          - Integrated microservices with enterprise Oracle databases and AWS storage, optimizing data retrieval speed through multi-tier indexing and Redis caching strategies.
+          - Implemented complex event processing and streaming pipelines using Spring Cloud Stream and Apache Kafka for low-latency anomaly identification and real-time processing.
+          - Enforced security and regulatory compliance by design utilizing OAuth 2.0, JWT, and Role-Based Access Control (RBAC) to meet strict SOX and PCI DSS standards.
+          - Developed automated data ingestion and financial reconciliation frameworks using Java Spring Batch, earning the Excellence in Automation Award for operational efficiency.
+
+      - company: Lbits Technologies
+        position: Full Stack Developer
+        start_date: 2020-07
+        end_date: 2021-10
+        highlights:
+          - Built an enterprise-grade inventory management solution utilizing Java, Spring MVC, Hibernate, React, and MySQL, coordinating multi-warehouse and storefront inventory state.
+          - Designed RESTful services with Spring Boot to synchronize real-time stock levels between transactional databases and e-commerce storefronts, preventing inventory overselling.
+          - Engineered interactive React dashboards to track sales velocity and supplier lead times, providing actionable insights for procurement optimization.
+          - Created an automated stock reconciliation engine using Java Spring Batch to cross-examine POS transaction logs against warehouse records and identify stock discrepancies.
+          - Integrated Redis caching layers to alleviate database load and enhance REST API response times during peak traffic periods.
+          - Secured sensitive inventory operations by implementing JWT authentication and fine-grained role-based access control across user roles.
+          - Collaborated with UI/UX designers to deliver highly responsive user interfaces with React Hooks and Context API, improving operational efficiency for warehouse personnel.
+          - Participated in Agile sprint cycles, contributing to technical planning, code reviews, and consistent feature delivery.
+
+    Education:
+      - institution: University of North Texas
+        area: Computer Science
+        degree: Master of Science
+
+      - institution: Srinidhi Institute of Science and Technology
+        area: Computer Science
+        degree: Bachelor of Engineering
+
+    Certifications:
+      - bullet: AWS Certified Cloud Practitioner - Amazon Web Services
+      - bullet: LangChain for LLM Application Development - DeepLearning.ai
+      - bullet: Oracle Certified Professional, Java SE 8 Programmer - Oracle
+      - bullet: Full Stack Web Development Specialization - Coursera (Johns Hopkins University)
+      - bullet: Agile Scrum Foundation - EXIN
+      - bullet: Certified Anti-Money Laundering Specialist (CAMS) - In Progress
+
+    Awards:
+      - bullet: Excellence in Automation Award - Accenture (Recognized for engineering a Java Spring Batch automation framework for financial reconciliation)
+      - bullet: Spot Award for Client Satisfaction - Lbits Technologies
