@@ -1,0 +1,88 @@
+cv:
+  name: Yashwanth Jadala
+  location: San Ramon, CA
+  email: yashwanthrajj534@gmail.com
+  phone: "+1-940-536-3920"
+  custom_connections:
+    - placeholder: LinkedIn Profile
+      url: https://linkedin.com
+      fontawesome_icon: linkedin
+
+  sections:
+    Professional Summary:
+      - AI/ML Engineer with 4+ years of experience building and optimizing production-grade Machine Learning and GenAI systems. Deep expertise in LLM fundamentals, transformer architectures, and training/inference lifecycles using Python, C++, PyTorch, JAX, vLLM, SGLang, and TensorRT. Proven track record in high-throughput model serving, RAG architectures, multi-agent workflows (LangGraph), and cloud-native MLOps on Kubernetes.
+
+    Technical Skills:
+      - label: ML Frameworks & Serving
+        details: PyTorch, JAX, vLLM, SGLang, TensorRT, PyTorch Dynamo, TorchXLA, LangChain, LangGraph, Model Context Protocol (MCP)
+      - label: LLM & ML Fundamentals
+        details: Transformer Architecture, Training & Inference Lifecycles, Quantization (FP8/INT4), Speculative Decoding, Retrieval-Augmented Generation (RAG), Semantic Search, Model Evaluation
+      - label: Programming & Backend
+        details: Python, C++, FastAPI, Java, Spring Boot, TypeScript, JavaScript, SQL, REST APIs, Microservices
+      - label: Cloud & MLOps
+        details: AWS, Azure, OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
+      - label: Databases & Data
+        details: PostgreSQL, Oracle, MySQL, Redis, MongoDB, Vector Databases, Apache Kafka, Query Optimization
+      - label: Architecture & Security
+        details: Distributed Systems, Event-Driven Architecture, OAuth 2.0, JWT, RBAC, AI Governance
+
+    Professional Experience:
+      - company: Apple
+        position: Software Development Engineer (AI/ML Engineering)
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - Architected high-throughput LLM inference and serving engines using Python, C++, PyTorch, vLLM, and SGLang, optimizing transformer model serving latencies.
+          - Streamlined model fine-tuning and inference lifecycles across transformer architectures using PyTorch, JAX, TensorRT, and TorchXLA with PyTorch Dynamo compilation.
+          - Engineered multi-agent AI workflows and RAG pipelines with LangChain, LangGraph, and MCP, connecting low-latency TensorRT/vLLM backends to FastAPI microservices.
+          - Implemented advanced optimization techniques including FP8/INT4 quantization and KV-cache optimization to reduce memory footprint and increase token throughput.
+          - Deployed containerized AI microservices on OpenShift and Kubernetes with Docker, facilitating scalable model inference and automated CI/CD deployment pipelines.
+          - Developed LLM evaluation and MLOps observability workflows using OpenTelemetry and Prometheus to track inference latency, GPU utilization, and model accuracy.
+
+      - company: Accenture Pvt. Ltd.
+        position: Software Engineer
+        start_date: 2021-11
+        end_date: 2022-11
+        highlights:
+          - Developed high-throughput RESTful microservices in Java and Spring Boot for a core banking financial transaction monitoring and fraud detection system.
+          - Integrated microservices with enterprise Oracle databases and AWS S3 storage paths, optimizing data retrieval through advanced indexing and Redis caching.
+          - Engineered automated data ingestion and financial reconciliation pipelines using Spring Batch to process large-scale transactional datasets with high data integrity.
+          - Designed interactive compliance and analytics dashboards in React and D3.js, surfacing real-time transaction anomaly patterns for financial regulatory reporting.
+          - Implemented complex event processing and real-time fraud detection pipelines using Spring Cloud Stream and Apache Kafka for low-latency anomaly identification.
+          - Secured banking APIs using OAuth 2.0, JWT, and Role-Based Access Control (RBAC) to comply with PCI DSS and SOX security and governance requirements.
+          - Automated end-to-end CI/CD pipelines using GitHub Actions, Jenkins, and Docker to deploy containerized microservices onto OpenShift environments.
+
+      - company: Lbits Technologies
+        position: Full Stack Developer
+        start_date: 2020-07
+        end_date: 2021-10
+        highlights:
+          - Built an enterprise-grade inventory management solution utilizing Java, Spring MVC, Hibernate, React, and MySQL, coordinating multi-warehouse and storefront inventory state.
+          - Designed RESTful services with Spring Boot to synchronize real-time stock levels between transactional databases and e-commerce storefronts, preventing inventory overselling.
+          - Engineered interactive React dashboards to track sales velocity and supplier lead times, providing actionable insights for procurement optimization.
+          - Created an automated stock reconciliation engine using Java Spring Batch to cross-examine POS transaction logs against warehouse records and identify stock discrepancies.
+          - Integrated Redis caching layers to alleviate database load and enhance REST API response times during peak traffic periods.
+          - Secured sensitive inventory operations by implementing JWT authentication and fine-grained role-based access control across user roles.
+          - Collaborated with UI/UX designers to deliver highly responsive user interfaces with React Hooks and Context API, improving operational efficiency for warehouse personnel.
+          - Participated in Agile sprint cycles, contributing to technical planning, code reviews, and consistent feature delivery.
+
+    Education:
+      - institution: University of North Texas
+        area: Computer Science
+        degree: Master of Science
+
+      - institution: Srinidhi Institute of Science and Technology
+        area: Computer Science
+        degree: Bachelor of Engineering
+
+    Certifications:
+      - bullet: AWS Certified Cloud Practitioner - Amazon Web Services
+      - bullet: LangChain for LLM Application Development - DeepLearning.ai
+      - bullet: Oracle Certified Professional, Java SE 8 Programmer - Oracle
+      - bullet: Full Stack Web Development Specialization - Coursera (Johns Hopkins University)
+      - bullet: Agile Scrum Foundation - EXIN
+      - bullet: Certified Anti-Money Laundering Specialist (CAMS) - In Progress
+
+    Awards:
+      - bullet: Excellence in Automation Award - Accenture (Recognized for engineering a Java Spring Batch automation framework for financial reconciliation)
+      - bullet: Spot Award for Client Satisfaction - Lbits Technologies
