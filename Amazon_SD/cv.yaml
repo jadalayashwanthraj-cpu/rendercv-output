@@ -15,13 +15,13 @@ cv:
     Technical Skills:
       - label: Programming Languages
         details: Java, Python, C++, SQL, TypeScript, JavaScript
-      - label: System Architecture & SDE
-        details: Distributed Systems, Tier-1 Microservices, Spring Boot, REST APIs, System Design, Multi-Threading, High Availability, Object-Oriented Design (OOD)
+      - label: Backend & System Architecture
+        details: Distributed Systems, Spring Boot, REST APIs, Microservices, System Design, Multi-Threading, Object-Oriented Design (OOD)
       - label: AI/ML & LLM Engineering
         details: Python, FastAPI, LangChain, LangGraph, Model Context Protocol (MCP), RAG, Vector Search, PyTorch, JAX, vLLM, TensorRT
       - label: Messaging & Data
         details: Apache Kafka, Event-Driven Architecture, PostgreSQL, Oracle, MySQL, Redis, Vector Databases, Query Optimization
-      - label: Cloud, DevOps & Observability
+      - label: Cloud, MLOps & DevOps
         details: AWS (S3, CloudWatch), OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
 
     Professional Experience:
@@ -30,16 +30,13 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Spearheaded Python and FastAPI microservice development for enterprise AI/ML initiatives, GenAI applications, and intelligent operational tools.
-          - Architected Retrieval-Augmented Generation (RAG) pipelines and multi-agent workflows using LangChain and LangGraph to automate complex enterprise reasoning.
-          - Integrated vector search store indexing and LLM evaluation frameworks, optimizing prompt execution and response latency for production AI applications.
-          - Designed and built Tier-1 backend microservices in Java and Spring Boot handling millions of daily requests with low latency and high availability.
-          - Developed high-throughput REST APIs and backend services supporting critical advertiser onboarding and account management workflows.
-          - Implemented event-driven architectures using Apache Kafka for real-time data propagation and low-latency state synchronization across distributed services.
-          - Enhanced system scalability and data access performance by optimizing complex database queries and implementing Redis multi-level caching strategies.
-          - Ensured operational reliability and fault tolerance by establishing comprehensive monitoring, alerting, circuit breakers, and automated fallback mechanisms.
-          - Participated in on-call rotations, performing root cause analysis (RCA) on production incidents and delivering long-term extensibility and architectural fixes.
-          - Led architecture design reviews, conducted peer code reviews, and mentored junior engineers to elevate code quality, safety, and operational excellence.
+          - Developed Python and FastAPI components for AI/LLM applications, integrating language models and supporting intelligent backend workflows.
+          - Implemented and maintained Retrieval-Augmented Generation (RAG) pipelines using LangChain and LangGraph to support retrieval-based responses and multi-step application workflows.
+          - Developed and maintained backend services using Java, Spring Boot, and REST APIs to support application workflows and service integrations.
+          - Implemented event-driven processing using Apache Kafka to support asynchronous communication and data synchronization between distributed services.
+          - Improved backend performance through SQL query optimization and caching strategies, addressing database load and response-time bottlenecks.
+          - Investigated production issues, performed root-cause analysis, and contributed fixes to improve service reliability and maintainability.
+          - Participated in code reviews, technical design discussions, testing, monitoring, and deployment activities.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
