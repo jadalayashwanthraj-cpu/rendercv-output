@@ -34,12 +34,16 @@ cv:
         highlights:
           - Architected high-throughput, low-latency distributed LLM serving infrastructure using vLLM and SGLang, optimizing KV-cache management and batching to boost token generation throughput by 35%.
           - Accelerated deep learning training and fine-tuning lifecycles across custom transformer architectures using PyTorch, JAX, and PyTorch Dynamo, leveraging TorchXLA for distributed acceleration.
-          - Built automated model optimization and compilation pipelines using TensorRT and FP8/INT4 quantization, significantly reducing GPU memory overhead while preserving model accuracy.
-          - Developed performance-critical microservices and runtime bindings in C++ and Python (FastAPI), optimizing concurrency and multi-threaded request handling for real-time prompt processing.
-          - Led architecture design reviews and collaborated with cross-functional engineering teams to ship enterprise RAG pipelines and multi-agent systems powered by LangGraph and MCP.
-          - Orchestrated containerized AI services on Kubernetes and OpenShift with Docker and automated CI/CD pipelines, maintaining sub-100ms API latency under peak concurrent loads.
-          - Established comprehensive MLOps observability using OpenTelemetry, Prometheus, and Grafana to track time-to-first-token (TTFT), GPU utilization, and system reliability.
-          - Mentored junior engineers, conducted peer pull-request code reviews, and championed best practices in clean code and unit/integration testing.
+          - Built automated model optimization and compilation pipelines using TensorRT and FP8/INT4 quantization, significantly reducing GPU memory overhead while preserving model output quality.
+          - Developed performance-critical backend microservices and runtime bindings in C++ and Python (FastAPI), optimizing multi-threaded request handling and token streaming for low latency.
+          - Led architecture design reviews and collaborated with cross-functional engineering teams to ship enterprise RAG pipelines and stateful multi-agent workflows using LangGraph and MCP.
+          - Implemented speculative decoding and custom KV-cache eviction policies in vLLM to decrease time-to-first-token (TTFT) by 40% across interactive enterprise applications.
+          - Engineered large-scale document ingestion, semantic search, and vector store indexing workflows to enhance retrieval precision and context relevance for complex user queries.
+          - Orchestrated containerized AI microservices on Kubernetes and OpenShift with Docker and CI/CD, maintaining resilient sub-100ms API latency under high traffic.
+          - Designed fault-tolerant fallback mechanisms, circuit breakers, and rate-limiting strategies across microservices to guarantee 99.99% system availability and reliable execution.
+          - Established end-to-end MLOps observability using OpenTelemetry, Prometheus, and Grafana to track model drift, GPU memory utilization, and real-time inference latency metrics.
+          - Conducted deep performance profiling and memory analysis using C++ and Python profiling tools, isolating and resolving critical system bottlenecks prior to production release.
+          - Mentored junior engineers, conducted peer pull-request code reviews, and fostered best practices in clean code, unit/integration testing, and system design documentation.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
