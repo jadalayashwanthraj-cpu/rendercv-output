@@ -10,17 +10,17 @@ cv:
 
   sections:
     Professional Summary:
-      - Software Development Engineer & AI/ML Specialist with 4+ years of experience designing, architecting, and scaling distributed software systems and production GenAI applications. Proficient in object-oriented development and system design using Python, C++, and Java, with deep expertise in ML frameworks (PyTorch, JAX, vLLM, SGLang, TensorRT) and transformer architectures. Proven track record in high-throughput microservices, cloud-native MLOps on AWS/Kubernetes, and conducting technical reviews and cross-functional team collaboration.
+      - Software Development Engineer & AI/ML Specialist with 4+ years of professional experience building scalable distributed systems, microservices, and AI applications. Hands-on expertise in LLM fundamentals, transformer architectures, and modern ML frameworks including PyTorch, JAX, vLLM, SGLang, and TensorRT. Proficient in Python, C++, and Java, with a strong background in system design, cloud infrastructure (AWS/Kubernetes), code reviews, and cross-functional engineering collaboration.
 
     Technical Skills:
       - label: Programming Languages
         details: Python, C++, Java, SQL, TypeScript, JavaScript
-      - label: System Architecture & SDE
-        details: Distributed Systems, System Design & Architecture, Microservices, REST APIs, Multi-Threading, High Availability, Object-Oriented Design (OOD)
-      - label: ML Frameworks & Serving
+      - label: ML Frameworks & Tools
         details: PyTorch, JAX, vLLM, SGLang, TensorRT, PyTorch Dynamo, TorchXLA, LangChain, LangGraph, Model Context Protocol (MCP)
-      - label: LLM & ML Fundamentals
-        details: Transformer Architecture, Training & Inference Lifecycles, Quantization (FP8/INT4), Speculative Decoding, RAG, Semantic Search, Model Evaluation
+      - label: Machine Learning & LLM
+        details: Transformer Architecture, Training & Inference Lifecycles, Quantization (FP8/INT4), KV-Cache Optimization, RAG, Semantic Search, Model Evaluation
+      - label: System Architecture & SDE
+        details: Distributed Systems, System Design, Microservices, REST APIs, Multi-Threading, Object-Oriented Design (OOD), High Availability
       - label: Cloud, MLOps & DevOps
         details: AWS (S3, CloudWatch), OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
       - label: Databases & Middleware
@@ -32,18 +32,18 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Architected high-throughput, low-latency distributed LLM serving infrastructure using vLLM and SGLang, optimizing KV-cache management and batching to boost token generation throughput by 35%.
-          - Accelerated deep learning training and fine-tuning lifecycles across custom transformer architectures using PyTorch, JAX, and PyTorch Dynamo, leveraging TorchXLA for distributed acceleration.
-          - Built automated model optimization and compilation pipelines using TensorRT and FP8/INT4 quantization, significantly reducing GPU memory overhead while preserving model output quality.
-          - Developed performance-critical backend microservices and runtime bindings in C++ and Python (FastAPI), optimizing multi-threaded request handling and token streaming for low latency.
-          - Led architecture design reviews and collaborated with cross-functional engineering teams to ship enterprise RAG pipelines and stateful multi-agent workflows using LangGraph and MCP.
-          - Implemented speculative decoding and custom KV-cache eviction policies in vLLM to decrease time-to-first-token (TTFT) by 40% across interactive enterprise applications.
-          - Engineered large-scale document ingestion, semantic search, and vector store indexing workflows to enhance retrieval precision and context relevance for complex user queries.
-          - Orchestrated containerized AI microservices on Kubernetes and OpenShift with Docker and CI/CD, maintaining resilient sub-100ms API latency under high traffic.
-          - Designed fault-tolerant fallback mechanisms, circuit breakers, and rate-limiting strategies across microservices to guarantee 99.99% system availability and reliable execution.
-          - Established end-to-end MLOps observability using OpenTelemetry, Prometheus, and Grafana to track model drift, GPU memory utilization, and real-time inference latency metrics.
-          - Conducted deep performance profiling and memory analysis using C++ and Python profiling tools, isolating and resolving critical system bottlenecks prior to production release.
-          - Mentored junior engineers, conducted peer pull-request code reviews, and fostered best practices in clean code, unit/integration testing, and system design documentation.
+          - Architected production-grade AI microservices and LLM applications using Python, C++, and FastAPI, supporting enterprise workflows with sub-100ms API response times.
+          - Engineered multi-agent AI workflows and stateful decision pipelines using LangGraph and Model Context Protocol (MCP) to automate complex operational tasks.
+          - Built end-to-end Retrieval-Augmented Generation (RAG) pipelines, integrating document ingestion, vector embeddings, and semantic search for high retrieval accuracy.
+          - Optimized LLM serving and inference performance using PyTorch and quantization techniques, improving GPU utilization and lowering time-to-first-token (TTFT).
+          - Developed custom C++ runtime extensions and memory-efficient data processing bindings to streamline real-time token streaming and prompt processing.
+          - Participated in system architecture reviews and collaborated with cross-functional engineering teams to define service interfaces and data schemas.
+          - Deployed containerized AI services on OpenShift and Kubernetes with Docker and automated CI/CD pipelines to ensure continuous integration and seamless deployment.
+          - Implemented comprehensive MLOps observability using OpenTelemetry, Prometheus, and Grafana to track inference latency, error rates, and system throughput.
+          - Designed resilient system patterns including circuit breakers, retry logic, and fallback mechanisms to ensure high availability and reliability for core services.
+          - Conducted performance profiling and memory analysis across Python and C++ services, identifying and resolving runtime bottlenecks prior to production releases.
+          - Conducted peer code reviews, enforced unit and integration testing standards, and authored detailed technical documentation for ongoing service maintenance.
+          - Mentored junior engineers and contributed to building a collaborative engineering culture focused on code quality and operational excellence.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
