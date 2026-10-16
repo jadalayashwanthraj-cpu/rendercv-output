@@ -30,6 +30,9 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
+          - Spearheaded Python and FastAPI microservice development for enterprise AI/ML initiatives, GenAI applications, and intelligent operational tools.
+          - Architected Retrieval-Augmented Generation (RAG) pipelines and multi-agent workflows using LangChain and LangGraph to automate complex enterprise reasoning.
+          - Integrated vector search store indexing and LLM evaluation frameworks, optimizing prompt execution and response latency for production AI applications.
           - Designed and built Tier-1 backend microservices in Java and Spring Boot handling millions of daily requests with low latency and high availability.
           - Developed high-throughput REST APIs and backend services supporting critical advertiser onboarding and account management workflows.
           - Implemented event-driven architectures using Apache Kafka for real-time data propagation and low-latency state synchronization across distributed services.
@@ -37,9 +40,6 @@ cv:
           - Ensured operational reliability and fault tolerance by establishing comprehensive monitoring, alerting, circuit breakers, and automated fallback mechanisms.
           - Participated in on-call rotations, performing root cause analysis (RCA) on production incidents and delivering long-term extensibility and architectural fixes.
           - Led architecture design reviews, conducted peer code reviews, and mentored junior engineers to elevate code quality, safety, and operational excellence.
-          - Expanded engineering focus to lead Python and FastAPI microservice development for enterprise AI/ML initiatives and intelligent tools.
-          - Architected Retrieval-Augmented Generation (RAG) pipelines and multi-agent workflows using LangChain and LangGraph to automate complex enterprise reasoning.
-          - Integrated vector search indexing and LLM evaluation frameworks, optimizing prompt execution and response latency for production AI applications.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
