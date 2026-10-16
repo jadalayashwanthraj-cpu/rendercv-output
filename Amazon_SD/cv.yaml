@@ -10,21 +10,21 @@ cv:
 
   sections:
     Professional Summary:
-      - AI/ML Engineer with 4+ years of experience building and optimizing production-grade Machine Learning and GenAI systems. Deep expertise in LLM fundamentals, transformer architectures, and training/inference lifecycles using Python, C++, PyTorch, JAX, vLLM, SGLang, and TensorRT. Proven track record in high-throughput model serving, RAG architectures, multi-agent workflows (LangGraph), and cloud-native MLOps on Kubernetes.
+      - Software Development Engineer & AI/ML Specialist with 4+ years of experience designing, architecting, and scaling distributed software systems and production GenAI applications. Proficient in object-oriented development and system design using Python, C++, and Java, with deep expertise in ML frameworks (PyTorch, JAX, vLLM, SGLang, TensorRT) and transformer architectures. Proven track record in high-throughput microservices, cloud-native MLOps on AWS/Kubernetes, and conducting technical reviews and cross-functional team collaboration.
 
     Technical Skills:
+      - label: Programming Languages
+        details: Python, C++, Java, SQL, TypeScript, JavaScript
+      - label: System Architecture & SDE
+        details: Distributed Systems, System Design & Architecture, Microservices, REST APIs, Multi-Threading, High Availability, Object-Oriented Design (OOD)
       - label: ML Frameworks & Serving
         details: PyTorch, JAX, vLLM, SGLang, TensorRT, PyTorch Dynamo, TorchXLA, LangChain, LangGraph, Model Context Protocol (MCP)
       - label: LLM & ML Fundamentals
-        details: Transformer Architecture, Training & Inference Lifecycles, Quantization (FP8/INT4), Speculative Decoding, Retrieval-Augmented Generation (RAG), Semantic Search, Model Evaluation
-      - label: Programming & Backend
-        details: Python, C++, FastAPI, Java, Spring Boot, TypeScript, JavaScript, SQL, REST APIs, Microservices
-      - label: Cloud & MLOps
-        details: AWS, Azure, OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
-      - label: Databases & Data
-        details: PostgreSQL, Oracle, MySQL, Redis, MongoDB, Vector Databases, Apache Kafka, Query Optimization
-      - label: Architecture & Security
-        details: Distributed Systems, Event-Driven Architecture, OAuth 2.0, JWT, RBAC, AI Governance
+        details: Transformer Architecture, Training & Inference Lifecycles, Quantization (FP8/INT4), Speculative Decoding, RAG, Semantic Search, Model Evaluation
+      - label: Cloud, MLOps & DevOps
+        details: AWS (S3, CloudWatch), OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
+      - label: Databases & Middleware
+        details: PostgreSQL, Oracle, MySQL, Redis, Vector Databases, Apache Kafka, Query Optimization
 
     Professional Experience:
       - company: Apple
@@ -32,14 +32,14 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Engineered high-throughput, low-latency LLM serving infrastructure using vLLM and SGLang, optimizing KV-cache management and batching strategies to increase token generation throughput by 35%.
-          - Accelerated deep learning training and fine-tuning lifecycles across custom transformer architectures using PyTorch, JAX, and PyTorch Dynamo, leveraging TorchXLA for distributed execution.
-          - Built automated model optimization pipelines using TensorRT and FP8/INT4 quantization, significantly reducing GPU memory overhead while preserving model output quality.
-          - Developed performance-critical backend components in C++ and Python (FastAPI), creating custom C++ runtime bindings to streamline real-time token streaming and prompt processing.
-          - Architected enterprise RAG applications and multi-agent systems using LangGraph, LangChain, and Model Context Protocol (MCP) to automate complex reasoning workflows across internal systems.
-          - Orchestrated containerized GenAI services on Kubernetes and OpenShift using Docker and CI/CD, maintaining reliable sub-100ms API latency under peak concurrent loads.
-          - Established comprehensive MLOps observability using OpenTelemetry, Prometheus, and Grafana to track time-to-first-token (TTFT), GPU utilization, and model response quality.
-          - Implemented stateful agent execution frameworks with tool-calling capabilities and human-in-the-loop safeguards, improving multi-step task success rates for complex operations.
+          - Architected high-throughput, low-latency distributed LLM serving infrastructure using vLLM and SGLang, optimizing KV-cache management and batching to boost token generation throughput by 35%.
+          - Accelerated deep learning training and fine-tuning lifecycles across custom transformer architectures using PyTorch, JAX, and PyTorch Dynamo, leveraging TorchXLA for distributed acceleration.
+          - Built automated model optimization and compilation pipelines using TensorRT and FP8/INT4 quantization, significantly reducing GPU memory overhead while preserving model accuracy.
+          - Developed performance-critical microservices and runtime bindings in C++ and Python (FastAPI), optimizing concurrency and multi-threaded request handling for real-time prompt processing.
+          - Led architecture design reviews and collaborated with cross-functional engineering teams to ship enterprise RAG pipelines and multi-agent systems powered by LangGraph and MCP.
+          - Orchestrated containerized AI services on Kubernetes and OpenShift with Docker and automated CI/CD pipelines, maintaining sub-100ms API latency under peak concurrent loads.
+          - Established comprehensive MLOps observability using OpenTelemetry, Prometheus, and Grafana to track time-to-first-token (TTFT), GPU utilization, and system reliability.
+          - Mentored junior engineers, conducted peer pull-request code reviews, and championed best practices in clean code and unit/integration testing.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
