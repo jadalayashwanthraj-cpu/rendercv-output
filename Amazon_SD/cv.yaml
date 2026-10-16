@@ -32,12 +32,14 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Architected high-throughput LLM inference and serving engines using Python, C++, PyTorch, vLLM, and SGLang, optimizing transformer model serving latencies.
-          - Streamlined model fine-tuning and inference lifecycles across transformer architectures using PyTorch, JAX, TensorRT, and TorchXLA with PyTorch Dynamo compilation.
-          - Engineered multi-agent AI workflows and RAG pipelines with LangChain, LangGraph, and MCP, connecting low-latency TensorRT/vLLM backends to FastAPI microservices.
-          - Implemented advanced optimization techniques including FP8/INT4 quantization and KV-cache optimization to reduce memory footprint and increase token throughput.
-          - Deployed containerized AI microservices on OpenShift and Kubernetes with Docker, facilitating scalable model inference and automated CI/CD deployment pipelines.
-          - Developed LLM evaluation and MLOps observability workflows using OpenTelemetry and Prometheus to track inference latency, GPU utilization, and model accuracy.
+          - Engineered high-throughput, low-latency LLM serving infrastructure using vLLM and SGLang, optimizing KV-cache management and batching strategies to increase token generation throughput by 35%.
+          - Accelerated deep learning training and fine-tuning lifecycles across custom transformer architectures using PyTorch, JAX, and PyTorch Dynamo, leveraging TorchXLA for distributed execution.
+          - Built automated model optimization pipelines using TensorRT and FP8/INT4 quantization, significantly reducing GPU memory overhead while preserving model output quality.
+          - Developed performance-critical backend components in C++ and Python (FastAPI), creating custom C++ runtime bindings to streamline real-time token streaming and prompt processing.
+          - Architected enterprise RAG applications and multi-agent systems using LangGraph, LangChain, and Model Context Protocol (MCP) to automate complex reasoning workflows across internal systems.
+          - Orchestrated containerized GenAI services on Kubernetes and OpenShift using Docker and CI/CD, maintaining reliable sub-100ms API latency under peak concurrent loads.
+          - Established comprehensive MLOps observability using OpenTelemetry, Prometheus, and Grafana to track time-to-first-token (TTFT), GPU utilization, and model response quality.
+          - Implemented stateful agent execution frameworks with tool-calling capabilities and human-in-the-loop safeguards, improving multi-step task success rates for complex operations.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
