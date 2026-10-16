@@ -10,21 +10,19 @@ cv:
 
   sections:
     Professional Summary:
-      - Software Development Engineer & AI/ML Specialist with 4+ years of professional experience building scalable distributed systems, microservices, and AI applications. Hands-on expertise in LLM fundamentals, transformer architectures, and modern ML frameworks including PyTorch, JAX, vLLM, SGLang, and TensorRT. Proficient in Python, C++, and Java, with a strong background in system design, cloud infrastructure (AWS/Kubernetes), code reviews, and cross-functional engineering collaboration.
+      - Software Development Engineer with 4+ years of experience designing, architecting, and scaling Tier-1 distributed software systems and modern AI/ML applications. Deep expertise in high-throughput Java (Spring Boot) microservices, Apache Kafka, and RESTful APIs, alongside recent hands-on experience in Python, FastAPI, LangChain, LangGraph, and RAG architectures. Strong track record in system design, production reliability, on-call operations, code reviews, and cross-functional leadership.
 
     Technical Skills:
       - label: Programming Languages
-        details: Python, C++, Java, SQL, TypeScript, JavaScript
-      - label: ML Frameworks & Tools
-        details: PyTorch, JAX, vLLM, SGLang, TensorRT, PyTorch Dynamo, TorchXLA, LangChain, LangGraph, Model Context Protocol (MCP)
-      - label: Machine Learning & LLM
-        details: Transformer Architecture, Training & Inference Lifecycles, Quantization (FP8/INT4), KV-Cache Optimization, RAG, Semantic Search, Model Evaluation
+        details: Java, Python, C++, SQL, TypeScript, JavaScript
       - label: System Architecture & SDE
-        details: Distributed Systems, System Design, Microservices, REST APIs, Multi-Threading, Object-Oriented Design (OOD), High Availability
-      - label: Cloud, MLOps & DevOps
+        details: Distributed Systems, Tier-1 Microservices, Spring Boot, REST APIs, System Design, Multi-Threading, High Availability, Object-Oriented Design (OOD)
+      - label: AI/ML & LLM Engineering
+        details: Python, FastAPI, LangChain, LangGraph, Model Context Protocol (MCP), RAG, Vector Search, PyTorch, JAX, vLLM, TensorRT
+      - label: Messaging & Data
+        details: Apache Kafka, Event-Driven Architecture, PostgreSQL, Oracle, MySQL, Redis, Vector Databases, Query Optimization
+      - label: Cloud, DevOps & Observability
         details: AWS (S3, CloudWatch), OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
-      - label: Databases & Middleware
-        details: PostgreSQL, Oracle, MySQL, Redis, Vector Databases, Apache Kafka, Query Optimization
 
     Professional Experience:
       - company: Apple
@@ -32,18 +30,16 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - Architected production-grade AI microservices and LLM applications using Python, C++, and FastAPI, supporting enterprise workflows with sub-100ms API response times.
-          - Engineered multi-agent AI workflows and stateful decision pipelines using LangGraph and Model Context Protocol (MCP) to automate complex operational tasks.
-          - Built end-to-end Retrieval-Augmented Generation (RAG) pipelines, integrating document ingestion, vector embeddings, and semantic search for high retrieval accuracy.
-          - Optimized LLM serving and inference performance using PyTorch and quantization techniques, improving GPU utilization and lowering time-to-first-token (TTFT).
-          - Developed custom C++ runtime extensions and memory-efficient data processing bindings to streamline real-time token streaming and prompt processing.
-          - Participated in system architecture reviews and collaborated with cross-functional engineering teams to define service interfaces and data schemas.
-          - Deployed containerized AI services on OpenShift and Kubernetes with Docker and automated CI/CD pipelines to ensure continuous integration and seamless deployment.
-          - Implemented comprehensive MLOps observability using OpenTelemetry, Prometheus, and Grafana to track inference latency, error rates, and system throughput.
-          - Designed resilient system patterns including circuit breakers, retry logic, and fallback mechanisms to ensure high availability and reliability for core services.
-          - Conducted performance profiling and memory analysis across Python and C++ services, identifying and resolving runtime bottlenecks prior to production releases.
-          - Conducted peer code reviews, enforced unit and integration testing standards, and authored detailed technical documentation for ongoing service maintenance.
-          - Mentored junior engineers and contributed to building a collaborative engineering culture focused on code quality and operational excellence.
+          - Designed and built Tier-1 backend microservices in Java and Spring Boot handling millions of daily requests with low latency and high availability.
+          - Developed high-throughput REST APIs and backend services supporting critical advertiser onboarding and account management workflows.
+          - Implemented event-driven architectures using Apache Kafka for real-time data propagation and low-latency state synchronization across distributed services.
+          - Enhanced system scalability and data access performance by optimizing complex database queries and implementing Redis multi-level caching strategies.
+          - Ensured operational reliability and fault tolerance by establishing comprehensive monitoring, alerting, circuit breakers, and automated fallback mechanisms.
+          - Participated in on-call rotations, performing root cause analysis (RCA) on production incidents and delivering long-term extensibility and architectural fixes.
+          - Led architecture design reviews, conducted peer code reviews, and mentored junior engineers to elevate code quality, safety, and operational excellence.
+          - Expanded engineering focus to lead Python and FastAPI microservice development for enterprise AI/ML initiatives and intelligent tools.
+          - Architected Retrieval-Augmented Generation (RAG) pipelines and multi-agent workflows using LangChain and LangGraph to automate complex enterprise reasoning.
+          - Integrated vector search indexing and LLM evaluation frameworks, optimizing prompt execution and response latency for production AI applications.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
