@@ -10,33 +10,36 @@ cv:
 
   sections:
     Professional Summary:
-      - Software Development Engineer with 4+ years of experience designing, architecting, and scaling Tier-1 distributed software systems and modern AI/ML applications. Deep expertise in high-throughput Java (Spring Boot) microservices, Apache Kafka, and RESTful APIs, alongside recent hands-on experience in Python, FastAPI, LangChain, LangGraph, and RAG architectures. Strong track record in system design, production reliability, on-call operations, code reviews, and cross-functional leadership.
+      - Software Development Engineer with 4+ years of professional experience building scalable backend microservices, distributed systems, and AI/ML integrations. Proven track record developing high-throughput Java (Spring Boot) and Python (FastAPI) applications, event-driven architectures with Apache Kafka, Redis caching, and RAG pipelines using LangChain and LangGraph. Strong background in system design, SQL query optimization, production root-cause analysis, CI/CD, and cross-functional engineering collaboration.
 
     Technical Skills:
       - label: Programming Languages
-        details: Java, Python, C++, SQL, TypeScript, JavaScript
-      - label: Backend & System Architecture
-        details: Distributed Systems, Spring Boot, REST APIs, Microservices, System Design, Multi-Threading, Object-Oriented Design (OOD)
+        details: Java, Python, SQL, C++, TypeScript, JavaScript
+      - label: Backend & Frameworks
+        details: Spring Boot, FastAPI, REST APIs, Microservices, Event-Driven Architecture, Multi-Threading, Object-Oriented Design (OOD)
       - label: AI/ML & LLM Engineering
-        details: Python, FastAPI, LangChain, LangGraph, Model Context Protocol (MCP), RAG, Vector Search, PyTorch, JAX, vLLM, TensorRT
-      - label: Messaging & Data
-        details: Apache Kafka, Event-Driven Architecture, PostgreSQL, Oracle, MySQL, Redis, Vector Databases, Query Optimization
+        details: Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Model Context Protocol (MCP), Vector Search, PyTorch, JAX, vLLM, TensorRT
+      - label: Messaging & Databases
+        details: Apache Kafka, Redis, PostgreSQL, Oracle, MySQL, Vector Databases, SQL Query Optimization
       - label: Cloud, MLOps & DevOps
         details: AWS (S3, CloudWatch), OpenShift, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD, OpenTelemetry, Prometheus, Grafana
 
     Professional Experience:
       - company: Apple
-        position: Software Development Engineer (AI/ML Engineering)
+        position: Software Development Engineer
         start_date: 2024-09
         end_date: present
         highlights:
-          - Developed Python and FastAPI components for AI/LLM applications, integrating language models and supporting intelligent backend workflows.
-          - Implemented and maintained Retrieval-Augmented Generation (RAG) pipelines using LangChain and LangGraph to support retrieval-based responses and multi-step application workflows.
-          - Developed and maintained backend services using Java, Spring Boot, and REST APIs to support application workflows and service integrations.
-          - Implemented event-driven processing using Apache Kafka to support asynchronous communication and data synchronization between distributed services.
-          - Improved backend performance through SQL query optimization and caching strategies, addressing database load and response-time bottlenecks.
-          - Investigated production issues, performed root-cause analysis, and contributed fixes to improve service reliability and maintainability.
-          - Participated in code reviews, technical design discussions, testing, monitoring, and deployment activities.
+          - Developed and maintained backend services using Java, Spring Boot, and REST APIs to support scalable enterprise application workflows.
+          - Built Python-based services using FastAPI to support AI/ML applications and integrate LLM-powered capabilities into backend workflows.
+          - Designed Retrieval-Augmented Generation (RAG) pipelines using LangChain and LangGraph to support context-aware responses and multi-step processing.
+          - Implemented event-driven communication using Apache Kafka to enable asynchronous processing and data synchronization across distributed services.
+          - Optimized SQL queries and database access patterns to improve backend performance and reduce unnecessary database load.
+          - Applied caching strategies using Redis to improve data retrieval efficiency for frequently accessed information.
+          - Developed service integrations and API components with attention to maintainability, error handling, and reliable data exchange.
+          - Investigated production issues, performed root-cause analysis, and implemented fixes to improve application stability and operational reliability.
+          - Contributed to technical design discussions, code reviews, automated testing, and CI/CD workflows to maintain software quality.
+          - Collaborated with cross-functional engineering teams to troubleshoot complex issues, improve existing services, and deliver new functionality.
 
       - company: Accenture Pvt. Ltd.
         position: Software Engineer
