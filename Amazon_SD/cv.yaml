@@ -1,11 +1,11 @@
 cv:
   name: Yashwanth Jadala
-  location: San Ramon, CA
+  location: Odessa, TX
   email: yashwanthrajj534@gmail.com
   phone: "+1-940-536-3920"
   custom_connections:
     - placeholder: LinkedIn Profile
-      url: https://linkedin.com
+      url: https://www.linkedin.com/in/yashwanth-j-762126153/
       fontawesome_icon: linkedin
 
   sections:
